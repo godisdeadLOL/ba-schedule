@@ -32,6 +32,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Remove temp banners data"
         run: rm frontend/src/banners.json
