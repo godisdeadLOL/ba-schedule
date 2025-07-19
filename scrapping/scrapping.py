@@ -67,7 +67,7 @@ def _scrap_banners(url: str):
 
         links = characters_td.select("a")
         for link in links:
-            name = str(link["title"])
+            name = str(link.text)
             banner.characters.append(name)
 
     return banner_groups
