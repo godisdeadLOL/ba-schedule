@@ -14,4 +14,4 @@ jobs:
 
     steps:
       - name: test
-        run: echo "${{ github.event.input.bannersData }}"
+        run: echo "${{ github.event.inputs.bannersData }}"
