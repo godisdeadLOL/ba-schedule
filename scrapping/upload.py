@@ -16,3 +16,5 @@ response = requests.post(
     headers=headers,
     json={"ref": "main", "inputs": {"bannersData": content}}
 )
+
+print(response.text)
