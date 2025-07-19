@@ -13,5 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: test
-        run: echo "${{ github.event.inputs.bannersData }}"
+      - name: create file
+        run: echo "${{ github.event.inputs.bannersData }}" > file.txt
+
+      - name: output file
+        run: cat file.txt
