@@ -25,6 +25,7 @@ jobs:
           path: banners.json
 
   build:
+    needs: get-banners
     name: Build
     runs-on: ubuntu-latest
 
