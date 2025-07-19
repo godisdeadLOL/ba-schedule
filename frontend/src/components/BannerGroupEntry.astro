@@ -1,0 +1,114 @@
+---
+import "../styles/BannerGroupEntry.css"
+
+import type { BannerGroup } from "../types"
+import { formatTimestampMonth, formatTimestamp, getCountdownMessage, getIntervalStatus } from "../utils"
+
+interface Props {
+	bannerGroup: BannerGroup
+}
+
+const { bannerGroup } = Astro.props
+
+const startFormatted = formatTimestamp(bannerGroup.interval.start)
+const endFormatted = formatTimestamp(bannerGroup.interval.end)
+const monthFormatted = formatTimestampMonth(bannerGroup.interval.start)
+
+const bannerStatus = getIntervalStatus(bannerGroup.interval)
+---
+
+<article {...bannerStatus === "Current" ? { id: "current" } : {}} class="card" data-start={bannerGroup.interval.start} data-end={bannerGroup.interval.end}>
+	<!-- Заголовок -->
+	<header>
+		<div>
+			<div class="flex items-center gap-2">
+				<div class="font-bold text-xl">
+					<span data-status={bannerStatus}>{bannerStatus}</span>
+					<span class="mx-1">/</span>
+					<time data-month>{monthFormatted}</time>
+				</div>
+
+				{bannerGroup.is_fest ? <div class="badge-yellow">Festival</div> : bannerGroup.is_limited && <div class="badge-red">Limited</div>}
+			</div>
+
+			{
+				bannerStatus !== "Previous" && (
+					<div data-countdown class="text-text-gray text-sm">
+						{getCountdownMessage(bannerGroup.interval)}
+					</div>
+				)
+			}
+		</div>
+
+		<div class="separator"></div>
+
+		<div class="text-text-gray text-nowrap">
+			<time data-start>{startFormatted}</time> → <time data-end>{endFormatted}</time>
+		</div>
+	</header>
+
+	<!-- Тело -->
+	<section>
+		{
+			bannerGroup.banners.map((banner) => (
+				<div>
+					<img loading="lazy" src={banner.image_url} />
+					<div class="text-center mt-2">{banner.characters.join(", ")}</div>
+				</div>
+			))
+		}
+	</section>
+</article>
+
+<script>
+	import type { Interval } from "../types"
+	import { formatTimestampMonth, formatTimestamp, getCountdownMessage, getIntervalStatus } from "../utils"
+
+	function updateCard(element: HTMLElement) {
+		const { start, end } = element.dataset
+		if (!start || !end) return
+
+		const interval: Interval = { start, end }
+
+		// временные метки
+		const startElement = element.querySelector("time[data-start]")!
+		const endElement = element.querySelector("time[data-end]")!
+		const monthElement = element.querySelector("time[data-month]")!
+		const countdownElement = element.querySelector("div[data-countdown]")
+
+		startElement.textContent = formatTimestamp(start, true)
+		endElement.textContent = formatTimestamp(end, true)
+		monthElement.textContent = formatTimestampMonth(start, true)
+		if (countdownElement) countdownElement.textContent = getCountdownMessage(interval) ?? null
+
+		// статус
+		const statusElement = element.querySelector("[data-status]")!
+		if (statusElement) {
+			const bannerStatus = getIntervalStatus(interval)
+
+			statusElement.textContent = bannerStatus
+			statusElement.setAttribute("data-status", bannerStatus)
+
+			// current id
+			if (bannerStatus === "Current") statusElement.setAttribute("id", "current")
+			else statusElement.removeAttribute("id")
+		}
+	}
+
+	document.addEventListener("DOMContentLoaded", () => {
+		const observer = new IntersectionObserver(
+			(entries, observer) => {
+				entries.forEach((entry) => {
+					if (entry.isIntersecting) {
+						updateCard(entry.target as HTMLElement)
+						observer.unobserve(entry.target)
+					}
+				})
+			},
+			{ threshold: 0 }
+		)
+
+		const cards = document.querySelectorAll(".card")
+		cards.forEach((card) => observer.observe(card))
+	})
+</script>

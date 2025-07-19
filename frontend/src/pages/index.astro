@@ -1,0 +1,30 @@
+---
+import BannerGroupEntry from "../components/BannerGroupEntry.astro"
+import LasteUpdateTime from "../components/LasteUpdateTime.astro"
+import Layout from "../layouts/Layout.astro"
+import type { BannerGroup } from "../types"
+
+import { Icon } from "astro-icon/components"
+
+const bannerGroups: BannerGroup[] = (await import("../banners.json")).default
+---
+
+<Layout>
+	<div class="container max-w-4xl mx-auto px-4 md:px-8 pt-16">
+		<nav class="mb-12 flex justify-between items-center">
+			<group>
+				<h1 class="text-2xl font-bold">Banner History</h1>
+				<div class="text-text-gray">
+					Last update: <LasteUpdateTime />
+				</div>
+			</group>
+
+			<a href="#current" class="px-2 py-1 flex items-center gap-1 bg-background hover:bg-neutral-800 active:bg-neutral-700 border-1 border-border rounded-md">
+				<Icon name="lucide:arrow-down" size="18px" />
+				Current banner
+			</a>
+		</nav>
+
+		{bannerGroups.map((entry) => <BannerGroupEntry bannerGroup={entry} />)}
+	</div>
+</Layout>

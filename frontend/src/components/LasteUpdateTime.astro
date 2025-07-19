@@ -1,0 +1,16 @@
+---
+import { formatTimestamp, dateToIsoTime } from "../utils"
+
+const timestampNow = dateToIsoTime(new Date())
+---
+
+<time data-last-update={timestampNow}>{formatTimestamp(timestampNow)}</time>
+
+<script>
+	import { formatTimestamp } from "../utils"
+
+	const element: HTMLElement = document.querySelector("[data-last-update]")!
+	const { lastUpdate } = element.dataset
+
+	element.textContent = formatTimestamp(lastUpdate!, true)
+</script>
