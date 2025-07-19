@@ -1,0 +1,17 @@
+name: Deploy
+
+on:
+  workflow_dispatch:
+    inputs:
+      bannersData:
+        description: "List of banners"
+        required: true
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: test
+        run: echo "${{ github.event.input.bannersData }}"
