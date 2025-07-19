@@ -1,11 +1,11 @@
 name: Deploy
 
 on:
-  workflow_dispatch:
-
   push:
-    branches:
-      - 'upload'
+      branches:
+        - upload
+
+  workflow_dispatch:
 
 
 jobs:
