@@ -19,30 +19,38 @@ jobs:
       - name: Write banners data
         run: echo "${{ github.event.inputs.bannersData }}" > frontend/src/banners.json
 
-      - name: test
-        run: cat frontend/src/banners.json
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
+      - name: Install dependencies
+        working-directory: frontend
+        run: npm install
 
-# jobs:
-#   build:
-#     name: Build
-#     runs-on: ubuntu-latest
+      - name: Build frontend
+        working-directory: frontend
+        run: npm run build
 
-#     steps:
-#       - name: Checkout repo
-#         uses: actions/checkout@v4
+      - uses: actions/upload-artifact@v4
+        with:
+          name: production-files
+          path: frontend/dist
 
-#       - name: Setup Node
-#         uses: actions/setup-node@v4
+  deploy:
+    name: Deploy
+    needs: build
+    runs-on: ubuntu-latest
 
-#       - name: Install dependencies
-#         uses: bahmutov/npm-install@v1
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: production-files
+          path: dist
 
-#       - name: Build project
-#         run: npm run build
-
-#       - name: Upload production-ready build files
-#         uses: actions/upload-artifact@v4
-#         with:
-#           name: production-files
-#           path: ./dist
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
