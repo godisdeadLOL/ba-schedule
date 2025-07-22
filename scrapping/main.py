@@ -1,4 +1,5 @@
 import argparse
+from typing import Optional
 from pydantic import TypeAdapter
 from schemas import BannerGroup, banner_groups_adapter
 
@@ -38,7 +39,7 @@ else:
         banners_japan = banner_groups_adapter.validate_json(f.read())
 
 
-last_index = len(banners_global) - 1
+last_index = banners_global[-1].index
 
 # получить ближайший предыдущий фестивальный баннер и аналогичный на японии
 fest_banner_global = [banner for banner in banners_global if banner.index <= last_index and banner.is_fest][-1]
@@ -54,35 +55,28 @@ index_japan = fest_banner_japan.index
 max_skip_global = 3
 max_skip_japan = 3
 
-while index_global < last_index:
-    matched = False
+first = True
+while index_global <= last_index:
+    matched : Optional[tuple[int, int]] = None # global, japan
 
     _index_global = index_global
     for i in range(max_skip_global):
-        if _index_global >= len(banners_global) or _index_global >= last_index:
-            break
-        _index_global += 1
-
+        if first : first = False
+        else : _index_global += 1
+        
+        if _index_global >= len(banners_global) or _index_global > last_index: break
+        
         _index_japan = index_japan
         for j in range(max_skip_japan):
-            if _index_japan >= len(banners_japan) - 1:
-                break
-            _index_japan += 1
-
-            # print("matching:", _index_global, "to", _index_japan)
-
             if banners_global[_index_global].check_includes_characters(banners_japan[_index_japan]):
-                matched = True
-                break
+                matched = (_index_global, _index_japan)
 
-        if matched:
-            break
+            _index_japan += 1
+            if _index_japan >= len(banners_japan): break
 
     if matched:
-        index_global = _index_global
-        index_japan = _index_japan
-    else:
-        break
+        index_global, index_japan = matched
+    else: break
 
 # предсказать последующие баннеры сдвигая их по времени
 time_delta = banners_global[index_global].interval.start - banners_japan[index_japan].interval.start  # вычесть из последующий интервалов
@@ -96,7 +90,7 @@ for i, banner in enumerate(upcomming_banners):
 
 banner_history = banners_global + upcomming_banners
 
-print(upcomming_banners[0].characters)
+print("Next banner:", upcomming_banners[0].characters)
 
 with open(output_path, "wb") as f:
     f.write(banner_groups_adapter.dump_json(banner_history, indent=1))
