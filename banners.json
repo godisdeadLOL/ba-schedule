@@ -3623,24 +3623,42 @@
   "index": 131,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/0c/Lobby_Banner_20231206_02.png/300px-Lobby_Banner_20231206_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8c/Lobby_Banner_EN_20250722_01.png/300px-Lobby_Banner_EN_20250722_01.png",
+    "characters": [
+     "Maki (Camping)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a6/Lobby_Banner_EN_20240611_01.png/300px-Lobby_Banner_EN_20240611_01.png",
     "characters": [
      "Himari"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8b/Lobby_Banner_20250203_02.png/300px-Lobby_Banner_20250203_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d2/Lobby_Banner_EN_20250722_03.png/300px-Lobby_Banner_EN_20250722_03.png",
     "characters": [
      "Eimi (Swimsuit)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e0/Lobby_Banner_EN_20250722_04.png/300px-Lobby_Banner_EN_20250722_04.png",
+    "characters": [
+     "Hare (Camping)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/12/Lobby_Banner_EN_20250722_05.png/300px-Lobby_Banner_EN_20250722_05.png",
+    "characters": [
+     "Kotama (Camping)"
     ]
    }
   ],
   "is_limited": false,
   "is_fest": false,
-  "is_prediction": true,
+  "is_prediction": false,
   "interval": {
    "start": "2025-07-22T11:00:00",
-   "end": "2025-07-31T18:28:00"
+   "end": "2025-08-05T10:59:00"
   }
  },
  {
@@ -4074,15 +4092,15 @@
   "index": 147,
   "banners": [
    {
-    "image_url": "",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/94/Lobby_Banner_20250722_01.png/300px-Lobby_Banner_20250722_01.png",
     "characters": [
-     "Hasumi (Swimsuit)"
+     "Seia (Swimsuit)"
     ]
    },
    {
-    "image_url": "",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/6c/Lobby_Banner_20250722_02.png/300px-Lobby_Banner_20250722_02.png",
     "characters": [
-     "Seia (Swimsuit)"
+     "Hasumi (Swimsuit)"
     ]
    }
   ],
