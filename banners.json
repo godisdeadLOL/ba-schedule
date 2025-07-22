@@ -19,8 +19,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2021-11-09T12:00:00",
-   "end": "2021-11-16T12:00:00"
+   "start": "2021-11-09T03:00:00",
+   "end": "2021-11-16T03:00:00"
   }
  },
  {
@@ -43,8 +43,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2021-11-16T12:00:00",
-   "end": "2021-11-29T12:00:00"
+   "start": "2021-11-16T03:00:00",
+   "end": "2021-11-29T03:00:00"
   }
  },
  {
@@ -68,8 +68,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2021-11-29T12:00:00",
-   "end": "2021-12-14T12:00:00"
+   "start": "2021-11-29T03:00:00",
+   "end": "2021-12-14T03:00:00"
   }
  },
  {
@@ -87,8 +87,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2021-12-14T12:00:00",
-   "end": "2021-12-28T12:00:00"
+   "start": "2021-12-14T03:00:00",
+   "end": "2021-12-28T03:00:00"
   }
  },
  {
@@ -111,8 +111,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2021-12-28T12:00:00",
-   "end": "2022-01-11T12:00:00"
+   "start": "2021-12-28T03:00:00",
+   "end": "2022-01-11T03:00:00"
   }
  },
  {
@@ -135,8 +135,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-01-11T12:00:00",
-   "end": "2022-01-25T12:00:00"
+   "start": "2022-01-11T03:00:00",
+   "end": "2022-01-25T03:00:00"
   }
  },
  {
@@ -160,8 +160,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-01-25T12:00:00",
-   "end": "2022-02-08T12:00:00"
+   "start": "2022-01-25T03:00:00",
+   "end": "2022-02-08T03:00:00"
   }
  },
  {
@@ -184,8 +184,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-02-08T12:00:00",
-   "end": "2022-02-22T12:00:00"
+   "start": "2022-02-08T03:00:00",
+   "end": "2022-02-22T03:00:00"
   }
  },
  {
@@ -208,8 +208,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-02-22T12:00:00",
-   "end": "2022-03-08T12:00:00"
+   "start": "2022-02-22T03:00:00",
+   "end": "2022-03-08T03:00:00"
   }
  },
  {
@@ -226,8 +226,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-03-08T12:00:00",
-   "end": "2022-03-22T12:00:00"
+   "start": "2022-03-08T03:00:00",
+   "end": "2022-03-22T03:00:00"
   }
  },
  {
@@ -250,8 +250,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-03-22T12:00:00",
-   "end": "2022-04-05T12:00:00"
+   "start": "2022-03-22T03:00:00",
+   "end": "2022-04-05T03:00:00"
   }
  },
  {
@@ -268,8 +268,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-04-05T12:00:00",
-   "end": "2022-04-19T12:00:00"
+   "start": "2022-04-05T03:00:00",
+   "end": "2022-04-19T03:00:00"
   }
  },
  {
@@ -293,8 +293,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-04-19T12:00:00",
-   "end": "2022-05-03T12:00:00"
+   "start": "2022-04-19T03:00:00",
+   "end": "2022-05-03T03:00:00"
   }
  },
  {
@@ -317,8 +317,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-05-03T12:00:00",
-   "end": "2022-05-17T12:00:00"
+   "start": "2022-05-03T03:00:00",
+   "end": "2022-05-17T03:00:00"
   }
  },
  {
@@ -335,8 +335,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-05-17T12:00:00",
-   "end": "2022-05-31T12:00:00"
+   "start": "2022-05-17T03:00:00",
+   "end": "2022-05-31T03:00:00"
   }
  },
  {
@@ -354,8 +354,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-05-31T12:00:00",
-   "end": "2022-06-14T12:00:00"
+   "start": "2022-05-31T03:00:00",
+   "end": "2022-06-14T03:00:00"
   }
  },
  {
@@ -372,8 +372,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-06-14T12:00:00",
-   "end": "2022-06-28T12:00:00"
+   "start": "2022-06-14T03:00:00",
+   "end": "2022-06-28T03:00:00"
   }
  },
  {
@@ -390,8 +390,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-06-28T12:00:00",
-   "end": "2022-07-12T12:00:00"
+   "start": "2022-06-28T03:00:00",
+   "end": "2022-07-12T03:00:00"
   }
  },
  {
@@ -414,8 +414,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-07-12T12:00:00",
-   "end": "2022-07-26T12:00:00"
+   "start": "2022-07-12T03:00:00",
+   "end": "2022-07-26T03:00:00"
   }
  },
  {
@@ -432,8 +432,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-07-26T12:00:00",
-   "end": "2022-08-09T12:00:00"
+   "start": "2022-07-26T03:00:00",
+   "end": "2022-08-09T03:00:00"
   }
  },
  {
@@ -456,8 +456,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-08-09T12:00:00",
-   "end": "2022-08-23T12:00:00"
+   "start": "2022-08-09T03:00:00",
+   "end": "2022-08-23T03:00:00"
   }
  },
  {
@@ -474,8 +474,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-08-23T12:00:00",
-   "end": "2022-09-06T12:00:00"
+   "start": "2022-08-23T03:00:00",
+   "end": "2022-09-06T03:00:00"
   }
  },
  {
@@ -492,8 +492,8 @@
   "is_fest": true,
   "is_prediction": false,
   "interval": {
-   "start": "2022-09-06T12:00:00",
-   "end": "2022-09-10T12:00:00"
+   "start": "2022-09-06T03:00:00",
+   "end": "2022-09-10T03:00:00"
   }
  },
  {
@@ -516,8 +516,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-09-10T12:00:00",
-   "end": "2022-09-20T12:00:00"
+   "start": "2022-09-10T03:00:00",
+   "end": "2022-09-20T03:00:00"
   }
  },
  {
@@ -541,8 +541,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-09-20T12:00:00",
-   "end": "2022-09-27T12:00:00"
+   "start": "2022-09-20T03:00:00",
+   "end": "2022-09-27T03:00:00"
   }
  },
  {
@@ -565,8 +565,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-09-27T12:00:00",
-   "end": "2022-10-04T12:00:00"
+   "start": "2022-09-27T03:00:00",
+   "end": "2022-10-04T03:00:00"
   }
  },
  {
@@ -589,8 +589,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-10-04T12:00:00",
-   "end": "2022-10-18T12:00:00"
+   "start": "2022-10-04T03:00:00",
+   "end": "2022-10-18T03:00:00"
   }
  },
  {
@@ -613,8 +613,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-10-18T12:00:00",
-   "end": "2022-10-25T12:00:00"
+   "start": "2022-10-18T03:00:00",
+   "end": "2022-10-25T03:00:00"
   }
  },
  {
@@ -638,8 +638,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-10-25T12:00:00",
-   "end": "2022-11-01T12:00:00"
+   "start": "2022-10-25T03:00:00",
+   "end": "2022-11-01T03:00:00"
   }
  },
  {
@@ -674,8 +674,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-11-08T12:00:00",
-   "end": "2022-11-22T12:00:00"
+   "start": "2022-11-08T03:00:00",
+   "end": "2022-11-22T03:00:00"
   }
  },
  {
@@ -704,8 +704,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-11-22T12:00:00",
-   "end": "2022-11-29T12:00:00"
+   "start": "2022-11-22T03:00:00",
+   "end": "2022-11-29T03:00:00"
   }
  },
  {
@@ -728,8 +728,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-11-29T11:00:00",
-   "end": "2022-12-13T11:00:00"
+   "start": "2022-11-29T02:00:00",
+   "end": "2022-12-13T02:00:00"
   }
  },
  {
@@ -752,8 +752,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-12-13T11:00:00",
-   "end": "2022-12-20T11:00:00"
+   "start": "2022-12-13T02:00:00",
+   "end": "2022-12-20T02:00:00"
   }
  },
  {
@@ -776,8 +776,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-12-20T11:00:00",
-   "end": "2023-01-03T11:00:00"
+   "start": "2022-12-20T02:00:00",
+   "end": "2023-01-03T02:00:00"
   }
  },
  {
@@ -813,8 +813,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-01-03T11:00:00",
-   "end": "2023-01-17T11:00:00"
+   "start": "2023-01-03T02:00:00",
+   "end": "2023-01-17T02:00:00"
   }
  },
  {
@@ -837,8 +837,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-01-17T11:00:00",
-   "end": "2023-01-31T11:00:00"
+   "start": "2023-01-17T02:00:00",
+   "end": "2023-01-31T02:00:00"
   }
  },
  {
@@ -855,8 +855,8 @@
   "is_fest": true,
   "is_prediction": false,
   "interval": {
-   "start": "2023-01-31T11:00:00",
-   "end": "2023-02-05T11:00:00"
+   "start": "2023-01-31T02:00:00",
+   "end": "2023-02-05T02:00:00"
   }
  },
  {
@@ -879,8 +879,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-02-05T11:00:00",
-   "end": "2023-02-14T11:00:00"
+   "start": "2023-02-05T02:00:00",
+   "end": "2023-02-14T02:00:00"
   }
  },
  {
@@ -915,8 +915,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-02-14T11:00:00",
-   "end": "2023-02-28T11:00:00"
+   "start": "2023-02-14T02:00:00",
+   "end": "2023-02-28T02:00:00"
   }
  },
  {
@@ -946,8 +946,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-02-28T11:00:00",
-   "end": "2023-03-14T11:00:00"
+   "start": "2023-02-28T02:00:00",
+   "end": "2023-03-14T02:00:00"
   }
  },
  {
@@ -970,8 +970,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-03-14T11:00:00",
-   "end": "2023-03-21T11:00:00"
+   "start": "2023-03-14T02:00:00",
+   "end": "2023-03-21T02:00:00"
   }
  },
  {
@@ -1007,8 +1007,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-03-21T11:00:00",
-   "end": "2023-03-28T11:00:00"
+   "start": "2023-03-21T02:00:00",
+   "end": "2023-03-28T02:00:00"
   }
  },
  {
@@ -1031,8 +1031,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-03-28T11:00:00",
-   "end": "2023-04-11T11:00:00"
+   "start": "2023-03-28T02:00:00",
+   "end": "2023-04-11T02:00:00"
   }
  },
  {
@@ -1067,8 +1067,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-04-11T11:00:00",
-   "end": "2023-04-18T11:00:00"
+   "start": "2023-04-11T02:00:00",
+   "end": "2023-04-18T02:00:00"
   }
  },
  {
@@ -1091,8 +1091,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-04-18T11:00:00",
-   "end": "2023-04-25T11:00:00"
+   "start": "2023-04-18T02:00:00",
+   "end": "2023-04-25T02:00:00"
   }
  },
  {
@@ -1115,8 +1115,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-04-25T11:00:00",
-   "end": "2023-05-09T11:00:00"
+   "start": "2023-04-25T02:00:00",
+   "end": "2023-05-09T02:00:00"
   }
  },
  {
@@ -1139,8 +1139,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-05-09T12:00:00",
-   "end": "2023-05-16T12:00:00"
+   "start": "2023-05-09T03:00:00",
+   "end": "2023-05-16T03:00:00"
   }
  },
  {
@@ -1163,8 +1163,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-05-16T12:00:00",
-   "end": "2023-05-30T12:00:00"
+   "start": "2023-05-16T03:00:00",
+   "end": "2023-05-30T03:00:00"
   }
  },
  {
@@ -1199,8 +1199,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-05-30T12:00:00",
-   "end": "2023-06-06T12:00:00"
+   "start": "2023-05-30T03:00:00",
+   "end": "2023-06-06T03:00:00"
   }
  },
  {
@@ -1230,8 +1230,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-06-06T12:00:00",
-   "end": "2023-06-13T12:00:00"
+   "start": "2023-06-06T03:00:00",
+   "end": "2023-06-13T03:00:00"
   }
  },
  {
@@ -1254,8 +1254,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-06-13T12:00:00",
-   "end": "2023-06-27T12:00:00"
+   "start": "2023-06-13T03:00:00",
+   "end": "2023-06-27T03:00:00"
   }
  },
  {
@@ -1278,8 +1278,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-06-27T12:00:00",
-   "end": "2023-07-11T12:00:00"
+   "start": "2023-06-27T03:00:00",
+   "end": "2023-07-11T03:00:00"
   }
  },
  {
@@ -1308,8 +1308,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-07-11T12:00:00",
-   "end": "2023-07-25T12:00:00"
+   "start": "2023-07-11T03:00:00",
+   "end": "2023-07-25T03:00:00"
   }
  },
  {
@@ -1326,8 +1326,8 @@
   "is_fest": true,
   "is_prediction": false,
   "interval": {
-   "start": "2023-07-25T12:00:00",
-   "end": "2023-08-01T12:00:00"
+   "start": "2023-07-25T03:00:00",
+   "end": "2023-08-01T03:00:00"
   }
  },
  {
@@ -1350,8 +1350,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-08-01T12:00:00",
-   "end": "2023-08-11T12:00:00"
+   "start": "2023-08-01T03:00:00",
+   "end": "2023-08-11T03:00:00"
   }
  },
  {
@@ -1380,8 +1380,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-08-11T12:00:00",
-   "end": "2023-08-22T12:00:00"
+   "start": "2023-08-11T03:00:00",
+   "end": "2023-08-22T03:00:00"
   }
  },
  {
@@ -1404,8 +1404,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-08-22T12:00:00",
-   "end": "2023-09-05T12:00:00"
+   "start": "2023-08-22T03:00:00",
+   "end": "2023-09-05T03:00:00"
   }
  },
  {
@@ -1428,8 +1428,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-09-05T12:00:00",
-   "end": "2023-09-19T12:00:00"
+   "start": "2023-09-05T03:00:00",
+   "end": "2023-09-19T03:00:00"
   }
  },
  {
@@ -1453,8 +1453,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-09-19T12:00:00",
-   "end": "2023-09-26T12:00:00"
+   "start": "2023-09-19T03:00:00",
+   "end": "2023-09-26T03:00:00"
   }
  },
  {
@@ -1495,8 +1495,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-09-26T12:00:00",
-   "end": "2023-10-10T12:00:00"
+   "start": "2023-09-26T03:00:00",
+   "end": "2023-10-10T03:00:00"
   }
  },
  {
@@ -1520,8 +1520,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-10-10T12:00:00",
-   "end": "2023-10-17T12:00:00"
+   "start": "2023-10-10T03:00:00",
+   "end": "2023-10-17T03:00:00"
   }
  },
  {
@@ -1544,8 +1544,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-10-17T12:00:00",
-   "end": "2023-10-24T12:00:00"
+   "start": "2023-10-17T03:00:00",
+   "end": "2023-10-24T03:00:00"
   }
  },
  {
@@ -1580,8 +1580,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-10-24T12:00:00",
-   "end": "2023-10-31T12:00:00"
+   "start": "2023-10-24T03:00:00",
+   "end": "2023-10-31T03:00:00"
   }
  },
  {
@@ -1604,8 +1604,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-10-31T12:00:00",
-   "end": "2023-11-14T12:00:00"
+   "start": "2023-10-31T03:00:00",
+   "end": "2023-11-14T03:00:00"
   }
  },
  {
@@ -1635,8 +1635,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-11-14T12:00:00",
-   "end": "2023-11-21T12:00:00"
+   "start": "2023-11-14T03:00:00",
+   "end": "2023-11-21T03:00:00"
   }
  },
  {
@@ -1665,8 +1665,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-11-21T12:00:00",
-   "end": "2023-11-28T12:00:00"
+   "start": "2023-11-21T03:00:00",
+   "end": "2023-11-28T03:00:00"
   }
  },
  {
@@ -1689,8 +1689,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-11-28T12:00:00",
-   "end": "2023-12-12T12:00:00"
+   "start": "2023-11-28T03:00:00",
+   "end": "2023-12-12T03:00:00"
   }
  },
  {
@@ -1719,8 +1719,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-12-12T12:00:00",
-   "end": "2023-12-19T12:00:00"
+   "start": "2023-12-12T03:00:00",
+   "end": "2023-12-19T03:00:00"
   }
  },
  {
@@ -1743,8 +1743,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-12-19T12:00:00",
-   "end": "2023-12-26T12:00:00"
+   "start": "2023-12-19T03:00:00",
+   "end": "2023-12-26T03:00:00"
   }
  },
  {
@@ -1767,8 +1767,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-12-26T12:00:00",
-   "end": "2024-01-09T12:00:00"
+   "start": "2023-12-26T03:00:00",
+   "end": "2024-01-09T03:00:00"
   }
  },
  {
@@ -1791,8 +1791,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-01-09T12:00:00",
-   "end": "2024-01-16T12:00:00"
+   "start": "2024-01-09T03:00:00",
+   "end": "2024-01-16T03:00:00"
   }
  },
  {
@@ -1822,8 +1822,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-01-16T12:00:00",
-   "end": "2024-01-23T12:00:00"
+   "start": "2024-01-16T03:00:00",
+   "end": "2024-01-23T03:00:00"
   }
  },
  {
@@ -1852,8 +1852,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-01-23T12:00:00",
-   "end": "2024-01-30T12:00:00"
+   "start": "2024-01-23T03:00:00",
+   "end": "2024-01-30T03:00:00"
   }
  },
  {
@@ -1876,8 +1876,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-01-30T12:00:00",
-   "end": "2024-02-08T12:00:00"
+   "start": "2024-01-30T03:00:00",
+   "end": "2024-02-08T03:00:00"
   }
  },
  {
@@ -1900,8 +1900,8 @@
   "is_fest": true,
   "is_prediction": false,
   "interval": {
-   "start": "2024-02-08T12:00:00",
-   "end": "2024-02-15T12:00:00"
+   "start": "2024-02-08T03:00:00",
+   "end": "2024-02-15T03:00:00"
   }
  },
  {
@@ -1924,8 +1924,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-02-15T12:00:00",
-   "end": "2024-02-20T12:00:00"
+   "start": "2024-02-15T03:00:00",
+   "end": "2024-02-20T03:00:00"
   }
  },
  {
@@ -1954,8 +1954,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-02-20T12:00:00",
-   "end": "2024-02-27T12:00:00"
+   "start": "2024-02-20T03:00:00",
+   "end": "2024-02-27T03:00:00"
   }
  },
  {
@@ -1985,8 +1985,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-02-27T12:00:00",
-   "end": "2024-03-12T12:00:00"
+   "start": "2024-02-27T03:00:00",
+   "end": "2024-03-12T03:00:00"
   }
  },
  {
@@ -2015,8 +2015,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-03-12T12:00:00",
-   "end": "2024-03-21T12:00:00"
+   "start": "2024-03-12T03:00:00",
+   "end": "2024-03-21T03:00:00"
   }
  },
  {
@@ -2045,8 +2045,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-03-21T12:00:00",
-   "end": "2024-04-02T12:00:00"
+   "start": "2024-03-21T03:00:00",
+   "end": "2024-04-02T03:00:00"
   }
  },
  {
@@ -2081,8 +2081,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-04-02T12:00:00",
-   "end": "2024-04-16T12:00:00"
+   "start": "2024-04-02T03:00:00",
+   "end": "2024-04-16T03:00:00"
   }
  },
  {
@@ -2117,8 +2117,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-04-16T12:00:00",
-   "end": "2024-04-23T12:00:00"
+   "start": "2024-04-16T03:00:00",
+   "end": "2024-04-23T03:00:00"
   }
  },
  {
@@ -2153,8 +2153,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-04-23T12:00:00",
-   "end": "2024-04-30T12:00:00"
+   "start": "2024-04-23T03:00:00",
+   "end": "2024-04-30T03:00:00"
   }
  },
  {
@@ -2177,8 +2177,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-04-30T12:00:00",
-   "end": "2024-05-14T12:00:00"
+   "start": "2024-04-30T03:00:00",
+   "end": "2024-05-14T03:00:00"
   }
  },
  {
@@ -2195,8 +2195,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-05-14T12:00:00",
-   "end": "2024-05-21T12:00:00"
+   "start": "2024-05-14T03:00:00",
+   "end": "2024-05-21T03:00:00"
   }
  },
  {
@@ -2231,8 +2231,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-05-21T12:00:00",
-   "end": "2024-05-28T12:00:00"
+   "start": "2024-05-21T03:00:00",
+   "end": "2024-05-28T03:00:00"
   }
  },
  {
@@ -2255,8 +2255,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-05-28T12:00:00",
-   "end": "2024-06-11T12:00:00"
+   "start": "2024-05-28T03:00:00",
+   "end": "2024-06-11T03:00:00"
   }
  },
  {
@@ -2279,8 +2279,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-06-11T12:00:00",
-   "end": "2024-06-18T12:00:00"
+   "start": "2024-06-11T03:00:00",
+   "end": "2024-06-18T03:00:00"
   }
  },
  {
@@ -2315,8 +2315,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-06-18T12:00:00",
-   "end": "2024-06-25T12:00:00"
+   "start": "2024-06-18T03:00:00",
+   "end": "2024-06-25T03:00:00"
   }
  },
  {
@@ -2339,8 +2339,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-06-25T12:00:00",
-   "end": "2024-07-09T12:00:00"
+   "start": "2024-06-25T03:00:00",
+   "end": "2024-07-09T03:00:00"
   }
  },
  {
@@ -2381,8 +2381,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-07-09T12:00:00",
-   "end": "2024-07-16T12:00:00"
+   "start": "2024-07-09T03:00:00",
+   "end": "2024-07-16T03:00:00"
   }
  },
  {
@@ -2405,8 +2405,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-07-16T12:00:00",
-   "end": "2024-07-23T12:00:00"
+   "start": "2024-07-16T03:00:00",
+   "end": "2024-07-23T03:00:00"
   }
  },
  {
@@ -2435,8 +2435,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-07-23T12:00:00",
-   "end": "2024-07-30T12:00:00"
+   "start": "2024-07-23T03:00:00",
+   "end": "2024-07-30T03:00:00"
   }
  },
  {
@@ -2459,8 +2459,8 @@
   "is_fest": true,
   "is_prediction": false,
   "interval": {
-   "start": "2024-07-30T12:00:00",
-   "end": "2024-08-06T12:00:00"
+   "start": "2024-07-30T03:00:00",
+   "end": "2024-08-06T03:00:00"
   }
  },
  {
@@ -2483,8 +2483,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-08-06T12:00:00",
-   "end": "2024-08-13T12:00:00"
+   "start": "2024-08-06T03:00:00",
+   "end": "2024-08-13T03:00:00"
   }
  },
  {
@@ -2513,8 +2513,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-08-13T12:00:00",
-   "end": "2024-08-20T12:00:00"
+   "start": "2024-08-13T03:00:00",
+   "end": "2024-08-20T03:00:00"
   }
  },
  {
@@ -2537,8 +2537,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-08-20T12:00:00",
-   "end": "2024-09-03T12:00:00"
+   "start": "2024-08-20T03:00:00",
+   "end": "2024-09-03T03:00:00"
   }
  },
  {
@@ -2567,8 +2567,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-09-03T12:00:00",
-   "end": "2024-09-17T12:00:00"
+   "start": "2024-09-03T03:00:00",
+   "end": "2024-09-17T03:00:00"
   }
  },
  {
@@ -2597,8 +2597,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-09-17T12:00:00",
-   "end": "2024-09-24T12:00:00"
+   "start": "2024-09-17T03:00:00",
+   "end": "2024-09-24T03:00:00"
   }
  },
  {
@@ -2634,8 +2634,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-09-24T12:00:00",
-   "end": "2024-10-08T12:00:00"
+   "start": "2024-09-24T03:00:00",
+   "end": "2024-10-08T03:00:00"
   }
  },
  {
@@ -2665,8 +2665,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-10-08T12:00:00",
-   "end": "2024-10-15T12:00:00"
+   "start": "2024-10-08T03:00:00",
+   "end": "2024-10-15T03:00:00"
   }
  },
  {
@@ -2695,8 +2695,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-10-15T12:00:00",
-   "end": "2024-10-22T12:00:00"
+   "start": "2024-10-15T03:00:00",
+   "end": "2024-10-22T03:00:00"
   }
  },
  {
@@ -2725,8 +2725,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-10-22T12:00:00",
-   "end": "2024-11-05T10:59:00"
+   "start": "2024-10-22T03:00:00",
+   "end": "2024-11-05T01:59:00"
   }
  },
  {
@@ -2761,8 +2761,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-11-05T10:59:00",
-   "end": "2024-11-12T10:59:00"
+   "start": "2024-11-05T01:59:00",
+   "end": "2024-11-12T01:59:00"
   }
  },
  {
@@ -2797,8 +2797,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-11-12T10:59:00",
-   "end": "2024-11-19T10:59:00"
+   "start": "2024-11-12T01:59:00",
+   "end": "2024-11-19T01:59:00"
   }
  },
  {
@@ -2833,8 +2833,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-11-19T10:59:00",
-   "end": "2024-12-03T10:59:00"
+   "start": "2024-11-19T01:59:00",
+   "end": "2024-12-03T01:59:00"
   }
  },
  {
@@ -2869,8 +2869,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-12-03T10:59:00",
-   "end": "2024-12-14T10:59:00"
+   "start": "2024-12-03T01:59:00",
+   "end": "2024-12-14T01:59:00"
   }
  },
  {
@@ -2899,8 +2899,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-12-14T10:59:00",
-   "end": "2024-12-24T10:59:00"
+   "start": "2024-12-14T01:59:00",
+   "end": "2024-12-24T01:59:00"
   }
  },
  {
@@ -2923,8 +2923,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-12-24T10:59:00",
-   "end": "2025-01-07T10:59:00"
+   "start": "2024-12-24T01:59:00",
+   "end": "2025-01-07T01:59:00"
   }
  },
  {
@@ -2953,8 +2953,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-01-07T10:59:00",
-   "end": "2025-01-16T10:59:00"
+   "start": "2025-01-07T01:59:00",
+   "end": "2025-01-16T01:59:00"
   }
  },
  {
@@ -2977,8 +2977,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-01-16T10:59:00",
-   "end": "2025-01-23T10:59:00"
+   "start": "2025-01-16T01:59:00",
+   "end": "2025-01-23T01:59:00"
   }
  },
  {
@@ -3007,8 +3007,8 @@
   "is_fest": true,
   "is_prediction": false,
   "interval": {
-   "start": "2025-01-23T10:59:00",
-   "end": "2025-01-30T10:59:00"
+   "start": "2025-01-23T01:59:00",
+   "end": "2025-01-30T01:59:00"
   }
  },
  {
@@ -3031,8 +3031,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-01-30T10:59:00",
-   "end": "2025-02-08T10:59:00"
+   "start": "2025-01-30T01:59:00",
+   "end": "2025-02-08T01:59:00"
   }
  },
  {
@@ -3074,8 +3074,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-02-08T10:59:00",
-   "end": "2025-02-18T10:59:00"
+   "start": "2025-02-08T01:59:00",
+   "end": "2025-02-18T01:59:00"
   }
  },
  {
@@ -3098,8 +3098,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-02-18T10:59:00",
-   "end": "2025-03-04T10:59:00"
+   "start": "2025-02-18T01:59:00",
+   "end": "2025-03-04T01:59:00"
   }
  },
  {
@@ -3134,8 +3134,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-03-04T10:59:00",
-   "end": "2025-03-11T10:59:00"
+   "start": "2025-03-04T01:59:00",
+   "end": "2025-03-11T01:59:00"
   }
  },
  {
@@ -3170,8 +3170,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-03-11T10:59:00",
-   "end": "2025-03-18T10:59:00"
+   "start": "2025-03-11T01:59:00",
+   "end": "2025-03-18T01:59:00"
   }
  },
  {
@@ -3207,8 +3207,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-03-18T10:59:00",
-   "end": "2025-04-01T10:59:00"
+   "start": "2025-03-18T01:59:00",
+   "end": "2025-04-01T01:59:00"
   }
  },
  {
@@ -3237,8 +3237,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-04-01T09:59:00",
-   "end": "2025-04-08T09:59:00"
+   "start": "2025-04-01T00:59:00",
+   "end": "2025-04-08T00:59:00"
   }
  },
  {
@@ -3267,8 +3267,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-04-08T09:59:00",
-   "end": "2025-04-15T09:59:00"
+   "start": "2025-04-08T00:59:00",
+   "end": "2025-04-15T00:59:00"
   }
  },
  {
@@ -3291,8 +3291,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-04-15T09:59:00",
-   "end": "2025-04-29T09:59:00"
+   "start": "2025-04-15T00:59:00",
+   "end": "2025-04-29T00:59:00"
   }
  },
  {
@@ -3315,8 +3315,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-04-29T11:00:00",
-   "end": "2025-05-06T10:59:00"
+   "start": "2025-04-29T02:00:00",
+   "end": "2025-05-06T01:59:00"
   }
  },
  {
@@ -3345,8 +3345,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-05-06T11:00:00",
-   "end": "2025-05-13T10:59:00"
+   "start": "2025-05-06T02:00:00",
+   "end": "2025-05-13T01:59:00"
   }
  },
  {
@@ -3381,8 +3381,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-05-13T11:00:00",
-   "end": "2025-05-27T10:59:00"
+   "start": "2025-05-13T02:00:00",
+   "end": "2025-05-27T01:59:00"
   }
  },
  {
@@ -3417,8 +3417,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-05-27T11:00:00",
-   "end": "2025-06-03T10:59:00"
+   "start": "2025-05-27T02:00:00",
+   "end": "2025-06-03T01:59:00"
   }
  },
  {
@@ -3465,8 +3465,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-06-03T11:00:00",
-   "end": "2025-06-10T10:59:00"
+   "start": "2025-06-03T02:00:00",
+   "end": "2025-06-10T01:59:00"
   }
  },
  {
@@ -3489,8 +3489,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-06-10T11:00:00",
-   "end": "2025-06-24T10:59:00"
+   "start": "2025-06-10T02:00:00",
+   "end": "2025-06-24T01:59:00"
   }
  },
  {
@@ -3525,8 +3525,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-06-24T11:00:00",
-   "end": "2025-07-01T10:59:00"
+   "start": "2025-06-24T02:00:00",
+   "end": "2025-07-01T01:59:00"
   }
  },
  {
@@ -3561,8 +3561,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-07-01T11:00:00",
-   "end": "2025-07-08T10:59:00"
+   "start": "2025-07-01T02:00:00",
+   "end": "2025-07-08T01:59:00"
   }
  },
  {
@@ -3585,8 +3585,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-07-08T11:00:00",
-   "end": "2025-07-15T10:59:00"
+   "start": "2025-07-08T02:00:00",
+   "end": "2025-07-15T01:59:00"
   }
  },
  {
@@ -3615,8 +3615,8 @@
   "is_fest": true,
   "is_prediction": false,
   "interval": {
-   "start": "2025-07-15T11:00:00",
-   "end": "2025-07-22T10:59:00"
+   "start": "2025-07-15T02:00:00",
+   "end": "2025-07-22T01:59:00"
   }
  },
  {
@@ -3657,42 +3657,12 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-07-22T11:00:00",
-   "end": "2025-08-05T10:59:00"
+   "start": "2025-07-22T02:00:00",
+   "end": "2025-08-05T01:59:00"
   }
  },
  {
   "index": 132,
-  "banners": [
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/4e/Lobby_Banner_20250212_01.png/300px-Lobby_Banner_20250212_01.png",
-    "characters": [
-     "Maki (Camping)"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/50/Lobby_Banner_20250212_02.png/300px-Lobby_Banner_20250212_02.png",
-    "characters": [
-     "Hare (Camping)"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/32/Lobby_Banner_20250212_03.png/300px-Lobby_Banner_20250212_03.png",
-    "characters": [
-     "Kotama (Camping)"
-    ]
-   }
-  ],
-  "is_limited": false,
-  "is_fest": false,
-  "is_prediction": true,
-  "interval": {
-   "start": "2025-07-31T11:00:00",
-   "end": "2025-08-14T10:59:00"
-  }
- },
- {
-  "index": 133,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/7c/Lobby_Banner_20250226_01.png/300px-Lobby_Banner_20250226_01.png",
@@ -3711,12 +3681,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-08-14T11:00:00",
-   "end": "2025-08-28T10:59:00"
+   "start": "2025-08-05T02:00:00",
+   "end": "2025-08-19T01:59:00"
   }
  },
  {
-  "index": 134,
+  "index": 133,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e6/Lobby_Banner_20240207_02.png/300px-Lobby_Banner_20240207_02.png",
@@ -3735,12 +3705,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-08-28T11:00:00",
-   "end": "2025-09-04T10:59:00"
+   "start": "2025-08-19T02:00:00",
+   "end": "2025-08-26T01:59:00"
   }
  },
  {
-  "index": 135,
+  "index": 134,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/cd/Lobby_Banner_20250319_01.png/300px-Lobby_Banner_20250319_01.png",
@@ -3771,12 +3741,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-09-04T11:00:00",
-   "end": "2025-09-11T10:59:00"
+   "start": "2025-08-26T02:00:00",
+   "end": "2025-09-02T01:59:00"
   }
  },
  {
-  "index": 136,
+  "index": 135,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/0c/Lobby_Banner_20250326_01.png/300px-Lobby_Banner_20250326_01.png",
@@ -3795,12 +3765,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-09-11T11:00:00",
-   "end": "2025-09-25T10:59:00"
+   "start": "2025-09-02T02:00:00",
+   "end": "2025-09-16T01:59:00"
   }
  },
  {
-  "index": 137,
+  "index": 136,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/ee/Lobby_Banner_20250409_01.png/300px-Lobby_Banner_20250409_01.png",
@@ -3825,12 +3795,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-09-25T11:00:00",
-   "end": "2025-10-02T10:59:00"
+   "start": "2025-09-16T02:00:00",
+   "end": "2025-09-23T01:59:00"
   }
  },
  {
-  "index": 138,
+  "index": 137,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/59/Lobby_Banner_20240515_01.png/300px-Lobby_Banner_20240515_01.png",
@@ -3849,12 +3819,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-10-02T11:00:00",
-   "end": "2025-10-08T10:59:00"
+   "start": "2025-09-23T02:00:00",
+   "end": "2025-09-29T01:59:00"
   }
  },
  {
-  "index": 139,
+  "index": 138,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/6e/Lobby_Banner_20250422_01.png/300px-Lobby_Banner_20250422_01.png",
@@ -3873,12 +3843,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-10-08T11:00:00",
-   "end": "2025-10-23T10:59:00"
+   "start": "2025-09-29T02:00:00",
+   "end": "2025-10-14T01:59:00"
   }
  },
  {
-  "index": 140,
+  "index": 139,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/51/Lobby_Banner_20241106_02.png/300px-Lobby_Banner_20241106_02.png",
@@ -3903,12 +3873,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-10-23T11:00:00",
-   "end": "2025-10-30T10:59:00"
+   "start": "2025-10-14T02:00:00",
+   "end": "2025-10-21T01:59:00"
   }
  },
  {
-  "index": 141,
+  "index": 140,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/fd/Lobby_Banner_20250514_01.png/300px-Lobby_Banner_20250514_01.png",
@@ -3933,12 +3903,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-10-30T11:00:00",
-   "end": "2025-11-06T10:59:00"
+   "start": "2025-10-21T02:00:00",
+   "end": "2025-10-28T01:59:00"
   }
  },
  {
-  "index": 142,
+  "index": 141,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/1a/Lobby_Banner_20250521_01.png/300px-Lobby_Banner_20250521_01.png",
@@ -3957,12 +3927,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-11-06T11:00:00",
-   "end": "2025-11-20T10:59:00"
+   "start": "2025-10-28T02:00:00",
+   "end": "2025-11-11T01:59:00"
   }
  },
  {
-  "index": 143,
+  "index": 142,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/cc/Lobby_Banner_20250604_01.png/300px-Lobby_Banner_20250604_01.png",
@@ -3993,12 +3963,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-11-20T11:00:00",
-   "end": "2025-12-04T10:59:00"
+   "start": "2025-11-11T02:00:00",
+   "end": "2025-11-25T01:59:00"
   }
  },
  {
-  "index": 144,
+  "index": 143,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/23/Lobby_Banner_20230816_02.png/300px-Lobby_Banner_20230816_02.png",
@@ -4029,12 +3999,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-12-04T11:00:00",
-   "end": "2025-12-11T10:59:00"
+   "start": "2025-11-25T02:00:00",
+   "end": "2025-12-02T01:59:00"
   }
  },
  {
-  "index": 145,
+  "index": 144,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2b/Lobby_Banner_20250625_01.png/300px-Lobby_Banner_20250625_01.png",
@@ -4054,12 +4024,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-12-11T11:00:00",
-   "end": "2025-12-25T10:59:00"
+   "start": "2025-12-02T02:00:00",
+   "end": "2025-12-16T01:59:00"
   }
  },
  {
-  "index": 146,
+  "index": 145,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/f9/Lobby_Banner_20240710_02.png/300px-Lobby_Banner_20240710_02.png",
@@ -4084,12 +4054,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2025-12-25T11:00:00",
-   "end": "2026-01-07T10:59:00"
+   "start": "2025-12-16T02:00:00",
+   "end": "2025-12-29T01:59:00"
   }
  },
  {
-  "index": 147,
+  "index": 146,
   "banners": [
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/94/Lobby_Banner_20250722_01.png/300px-Lobby_Banner_20250722_01.png",
@@ -4108,12 +4078,12 @@
   "is_fest": false,
   "is_prediction": true,
   "interval": {
-   "start": "2026-01-07T11:00:00",
-   "end": "2026-01-15T10:59:00"
+   "start": "2025-12-29T02:00:00",
+   "end": "2026-01-06T01:59:00"
   }
  },
  {
-  "index": 148,
+  "index": 147,
   "banners": [
    {
     "image_url": "",
@@ -4138,8 +4108,8 @@
   "is_fest": true,
   "is_prediction": true,
   "interval": {
-   "start": "2026-01-15T11:00:00",
-   "end": "2026-01-22T10:59:00"
+   "start": "2026-01-06T02:00:00",
+   "end": "2026-01-13T01:59:00"
   }
  }
 ]
