@@ -1886,13 +1886,19 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2b/Lobby_Banner_EN_20240208_01.png/300px-Lobby_Banner_EN_20240208_01.png",
     "characters": [
-     "Hanako (Swimsuit)"
+     "Hanako (Swimsuit)",
+     "Mika",
+     "Hoshino (Swimsuit)",
+     "Wakamo"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/4f/Lobby_Banner_EN_20240208_02.png/300px-Lobby_Banner_EN_20240208_02.png",
     "characters": [
-     "Wakamo"
+     "Wakamo",
+     "Hanako (Swimsuit)",
+     "Mika",
+     "Hoshino (Swimsuit)"
     ]
    }
   ],
@@ -2445,7 +2451,11 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/69/Lobby_Banner_EN_20240730_01.png/300px-Lobby_Banner_EN_20240730_01.png",
     "characters": [
-     "Hina (Dress)"
+     "Hina (Dress)",
+     "Hanako (Swimsuit)",
+     "Mika",
+     "Hoshino (Swimsuit)",
+     "Wakamo"
     ]
    },
    {
@@ -2993,13 +3003,23 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/be/Lobby_Banner_20240722_01.png/300px-Lobby_Banner_20240722_01.png",
     "characters": [
-     "Hoshino (Battle)"
+     "Hoshino (Battle)",
+     "Hina (Dress)",
+     "Hanako (Swimsuit)",
+     "Mika",
+     "Hoshino (Swimsuit)",
+     "Wakamo"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/1d/Lobby_Banner_20240722_02.png/300px-Lobby_Banner_20240722_02.png",
     "characters": [
-     "Shiroko＊Terror"
+     "Shiroko＊Terror",
+     "Hina (Dress)",
+     "Hanako (Swimsuit)",
+     "Mika",
+     "Hoshino (Swimsuit)",
+     "Wakamo"
     ]
    }
   ],
@@ -3665,13 +3685,13 @@
   "index": 132,
   "banners": [
    {
-    "image_url": "",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/ef/Lobby_Banner_EN_20250805_01.png/300px-Lobby_Banner_EN_20250805_01.png",
     "characters": [
      "Sena (Casual)"
     ]
    },
    {
-    "image_url": "",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d0/Lobby_Banner_EN_20250805_02.png/300px-Lobby_Banner_EN_20250805_02.png",
     "characters": [
      "Juri (Part-Timer)"
     ]
