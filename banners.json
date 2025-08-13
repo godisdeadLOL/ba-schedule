@@ -4155,5 +4155,41 @@
    "start": "2026-01-13T02:00:00",
    "end": "2026-01-20T01:59:00"
   }
+ },
+ {
+  "index": 149,
+  "banners": [
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/18/Lobby_Banner_20240417_01.png/300px-Lobby_Banner_20240417_01.png",
+    "characters": [
+     "Toki"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/40/Lobby_Banner_20240417_02.png/300px-Lobby_Banner_20240417_02.png",
+    "characters": [
+     "Nagisa"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/b0/Lobby_Banner_20250813_01.png/300px-Lobby_Banner_20250813_01.png",
+    "characters": [
+     "Kanna"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/21/Lobby_Banner_20250813_02.png/300px-Lobby_Banner_20250813_02.png",
+    "characters": [
+     "Chiaki"
+    ]
+   }
+  ],
+  "is_limited": true,
+  "is_fest": false,
+  "is_prediction": true,
+  "interval": {
+   "start": "2026-01-20T02:00:00",
+   "end": "2026-01-27T01:59:00"
+  }
  }
 ]
