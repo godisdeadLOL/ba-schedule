@@ -3709,21 +3709,45 @@
   "index": 133,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e6/Lobby_Banner_20240207_02.png/300px-Lobby_Banner_20240207_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/f3/Lobby_Banner_EN_20250819_01.png/300px-Lobby_Banner_EN_20250819_01.png",
+    "characters": [
+     "Izumi (New Year)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d5/Lobby_Banner_EN_20250819_02.png/300px-Lobby_Banner_EN_20250819_02.png",
+    "characters": [
+     "Akari (New Year)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/64/Lobby_Banner_EN_20240806_01.png/300px-Lobby_Banner_EN_20240806_01.png",
+    "characters": [
+     "Serina (Christmas)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/64/Lobby_Banner_EN_20240806_02.png/300px-Lobby_Banner_EN_20240806_02.png",
     "characters": [
      "Hanae (Christmas)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e9/Lobby_Banner_20240207_01.png/300px-Lobby_Banner_20240207_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/85/Lobby_Banner_EN_20240903_02.png/300px-Lobby_Banner_EN_20240903_02.png",
     "characters": [
-     "Serina (Christmas)"
+     "Haruna (New Year)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/15/Lobby_Banner_EN_20240903_03.png/300px-Lobby_Banner_EN_20240903_03.png",
+    "characters": [
+     "Fuuka (New Year)"
     ]
    }
   ],
-  "is_limited": false,
+  "is_limited": true,
   "is_fest": false,
-  "is_prediction": true,
+  "is_prediction": false,
   "interval": {
    "start": "2025-08-19T02:00:00",
    "end": "2025-08-26T01:59:00"
