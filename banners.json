@@ -4208,19 +4208,19 @@
   "index": 150,
   "banners": [
    {
-    "image_url": "",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/47/Lobby_Banner_20240903_01.png/300px-Lobby_Banner_20240903_01.png",
     "characters": [
      "Misaki (Swimsuit)"
     ]
    },
    {
-    "image_url": "",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/04/Lobby_Banner_20240903_02.png/300px-Lobby_Banner_20240903_02.png",
     "characters": [
      "Saori (Swimsuit)"
     ]
    },
    {
-    "image_url": "",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/13/Lobby_Banner_20240903_03.png/300px-Lobby_Banner_20240903_03.png",
     "characters": [
      "Hiyori (Swimsuit)"
     ]
@@ -4244,6 +4244,36 @@
   "interval": {
    "start": "2026-02-03T02:00:00",
    "end": "2026-02-17T01:59:00"
+  }
+ },
+ {
+  "index": 151,
+  "banners": [
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/45/Lobby_Banner_20221012_02.png/300px-Lobby_Banner_20221012_02.png",
+    "characters": [
+     "Neru (Bunny Girl)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3d/Lobby_Banner_20221012_03.png/300px-Lobby_Banner_20221012_03.png",
+    "characters": [
+     "Karin (Bunny Girl)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/32/Lobby_Banner_20231220_01.png/300px-Lobby_Banner_20231220_01.png",
+    "characters": [
+     "Akane (Bunny Girl)"
+    ]
+   }
+  ],
+  "is_limited": true,
+  "is_fest": false,
+  "is_prediction": true,
+  "interval": {
+   "start": "2026-02-17T02:00:00",
+   "end": "2026-02-24T01:59:00"
   }
  }
 ]
