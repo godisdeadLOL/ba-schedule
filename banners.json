@@ -4015,16 +4015,16 @@
   "index": 143,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2b/Lobby_Banner_20250625_01.png/300px-Lobby_Banner_20250625_01.png",
-    "characters": [
-     "Yukari (Swimsuit)"
-    ]
-   },
-   {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/04/Lobby_Banner_20250625_02.png/300px-Lobby_Banner_20250625_02.png",
     "characters": [
      "Kikyou (Swimsuit)",
      "Renge (Swimsuit)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2b/Lobby_Banner_20250625_01.png/300px-Lobby_Banner_20250625_01.png",
+    "characters": [
+     "Yukari (Swimsuit)"
     ]
    }
   ],
@@ -4208,19 +4208,19 @@
   "index": 150,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/47/Lobby_Banner_20240903_01.png/300px-Lobby_Banner_20240903_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/35/Lobby_Banner_20250903_01.png/300px-Lobby_Banner_20250903_01.png",
     "characters": [
      "Misaki (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/04/Lobby_Banner_20240903_02.png/300px-Lobby_Banner_20240903_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/7a/Lobby_Banner_20250903_02.png/300px-Lobby_Banner_20250903_02.png",
     "characters": [
      "Saori (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/13/Lobby_Banner_20240903_03.png/300px-Lobby_Banner_20240903_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a5/Lobby_Banner_20250903_03.png/300px-Lobby_Banner_20250903_03.png",
     "characters": [
      "Hiyori (Swimsuit)"
     ]
