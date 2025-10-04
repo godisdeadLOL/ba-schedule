@@ -3,15 +3,10 @@
   "index": 0,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a7/LobbyEvent2882563058.png/300px-LobbyEvent2882563058.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/ad/Lobby_Banner_EN_20211109_01.png/300px-Lobby_Banner_EN_20211109_01.png",
     "characters": [
+     "Shiroko",
      "Hoshino"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/23/LobbyEvent4281340970.png/300px-LobbyEvent4281340970.png",
-    "characters": [
-     "Shiroko"
     ]
    }
   ],
@@ -19,7 +14,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2021-11-09T03:00:00",
+   "start": "2021-11-08T15:00:00",
    "end": "2021-11-16T03:00:00"
   }
  },
@@ -27,13 +22,13 @@
   "index": 1,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a0/LobbyEvent1909811329.png/300px-LobbyEvent1909811329.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d1/Lobby_Banner_EN_20211116_01.png/300px-Lobby_Banner_EN_20211116_01.png",
     "characters": [
      "Mashiro"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/69/LobbyEvent206487622.png/300px-LobbyEvent206487622.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/92/Lobby_Banner_EN_20211116_02.png/300px-Lobby_Banner_EN_20211116_02.png",
     "characters": [
      "Aru"
     ]
@@ -43,7 +38,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2021-11-16T03:00:00",
+   "start": "2021-11-16T03:30:00",
    "end": "2021-11-29T03:00:00"
   }
  },
@@ -51,14 +46,14 @@
   "index": 2,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/29/LobbyEvent839745865.png/300px-LobbyEvent839745865.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d3/Lobby_Banner_EN_20211129_01.png/300px-Lobby_Banner_EN_20211129_01.png",
     "characters": [
      "Izuna",
      "Shizuko"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c3/LobbyEvent1197760765.png/300px-LobbyEvent1197760765.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/9c/Lobby_Banner_EN_20211129_02.png/300px-Lobby_Banner_EN_20211129_02.png",
     "characters": [
      "Haruna"
     ]
@@ -68,7 +63,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2021-11-29T03:00:00",
+   "start": "2021-11-29T03:30:00",
    "end": "2021-12-14T03:00:00"
   }
  },
@@ -76,7 +71,7 @@
   "index": 3,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/05/LobbyEvent3523871904.png/300px-LobbyEvent3523871904.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2c/Lobby_Banner_EN_20211214_01.png/300px-Lobby_Banner_EN_20211214_01.png",
     "characters": [
      "Midori",
      "Momoi"
@@ -87,7 +82,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2021-12-14T03:00:00",
+   "start": "2021-12-14T03:30:00",
    "end": "2021-12-28T03:00:00"
   }
  },
@@ -95,13 +90,13 @@
   "index": 4,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/19/LobbyEvent2639079402.png/300px-LobbyEvent2639079402.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/da/Lobby_Banner_EN_20211228_01.png/300px-Lobby_Banner_EN_20211228_01.png",
     "characters": [
      "Arisu"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/41/LobbyEvent3563105498.png/300px-LobbyEvent3563105498.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/48/Lobby_Banner_EN_20211228_02.png/300px-Lobby_Banner_EN_20211228_02.png",
     "characters": [
      "Yuzu"
     ]
@@ -111,7 +106,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2021-12-28T03:00:00",
+   "start": "2021-12-28T03:30:00",
    "end": "2022-01-11T03:00:00"
   }
  },
@@ -119,15 +114,15 @@
   "index": 5,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/da/LobbyEvent4003328662.png/300px-LobbyEvent4003328662.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/12/Lobby_Banner_EN_20220111_01.png/300px-Lobby_Banner_EN_20220111_01.png",
     "characters": [
-     "Karin"
+     "Cherino"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a7/LobbyEvent4222480098.png/300px-LobbyEvent4222480098.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c5/Lobby_Banner_EN_20220111_02.png/300px-Lobby_Banner_EN_20220111_02.png",
     "characters": [
-     "Cherino"
+     "Karin"
     ]
    }
   ],
@@ -135,7 +130,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-01-11T03:00:00",
+   "start": "2022-01-11T03:30:00",
    "end": "2022-01-25T03:00:00"
   }
  },
@@ -143,14 +138,14 @@
   "index": 6,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/91/LobbyEvent213580011.png/300px-LobbyEvent213580011.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/56/Lobby_Banner_EN_20220125_01.png/300px-Lobby_Banner_EN_20220125_01.png",
     "characters": [
      "Azusa",
      "Hanako"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a4/LobbyEvent2198315866.png/300px-LobbyEvent2198315866.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/76/Lobby_Banner_EN_20220125_02.png/300px-Lobby_Banner_EN_20220125_02.png",
     "characters": [
      "Hibiki"
     ]
@@ -168,13 +163,13 @@
   "index": 7,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/02/LobbyEvent2968294764.png/300px-LobbyEvent2968294764.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a0/Lobby_Banner_EN_20220208_01.png/300px-Lobby_Banner_EN_20220208_01.png",
     "characters": [
      "Koharu"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/f9/LobbyEvent2568277654.png/300px-LobbyEvent2568277654.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d4/Lobby_Banner_EN_20220208_02.png/300px-Lobby_Banner_EN_20220208_02.png",
     "characters": [
      "Hifumi"
     ]
@@ -192,13 +187,13 @@
   "index": 8,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/85/LobbyEvent2216494554.png/300px-LobbyEvent2216494554.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/0a/Lobby_Banner_EN_20220222_01.png/300px-Lobby_Banner_EN_20220222_01.png",
     "characters": [
      "Azusa (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/fc/LobbyEvent4011688004.png/300px-LobbyEvent4011688004.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8c/Lobby_Banner_EN_20220222_02.png/300px-Lobby_Banner_EN_20220222_02.png",
     "characters": [
      "Mashiro (Swimsuit)"
     ]
@@ -216,7 +211,7 @@
   "index": 9,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/89/LobbyEvent1525316711.png/300px-LobbyEvent1525316711.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c8/Lobby_Banner_EN_20220308_01.png/300px-Lobby_Banner_EN_20220308_01.png",
     "characters": [
      "Hifumi (Swimsuit)"
     ]
@@ -234,13 +229,13 @@
   "index": 10,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/06/LobbyEvent683703564.png/300px-LobbyEvent683703564.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/86/Lobby_Banner_EN_20220322_01.png/300px-Lobby_Banner_EN_20220322_01.png",
     "characters": [
      "Hina (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/23/LobbyEvent3760435103.png/300px-LobbyEvent3760435103.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/ac/Lobby_Banner_EN_20220322_02.png/300px-Lobby_Banner_EN_20220322_02.png",
     "characters": [
      "Iori (Swimsuit)"
     ]
@@ -258,7 +253,7 @@
   "index": 11,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/dd/LobbyEvent176012479.png/300px-LobbyEvent176012479.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/65/Lobby_Banner_EN_20220405_01.png/300px-Lobby_Banner_EN_20220405_01.png",
     "characters": [
      "Shiroko (Riding)"
     ]
@@ -276,14 +271,14 @@
   "index": 12,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/07/LobbyEvent2540026050.png/300px-LobbyEvent2540026050.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/5e/Lobby_Banner_EN_20220419_01.png/300px-Lobby_Banner_EN_20220419_01.png",
     "characters": [
      "Shun (Kid)",
      "Kirino"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/78/LobbyEvent2708694573.png/300px-LobbyEvent2708694573.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/06/Lobby_Banner_EN_20220419_02.png/300px-Lobby_Banner_EN_20220419_02.png",
     "characters": [
      "Saya (Casual)"
     ]
@@ -301,13 +296,13 @@
   "index": 13,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/03/LobbyEvent4208527133.png/300px-LobbyEvent4208527133.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/7c/Lobby_Banner_EN_20220503_01.png/300px-Lobby_Banner_EN_20220503_01.png",
     "characters": [
      "Neru (Bunny Girl)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/b9/LobbyEvent1828114586.png/300px-LobbyEvent1828114586.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/12/Lobby_Banner_EN_20220503_02.png/300px-Lobby_Banner_EN_20220503_02.png",
     "characters": [
      "Karin (Bunny Girl)"
     ]
@@ -325,7 +320,7 @@
   "index": 14,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/bc/LobbyEvent525519345.png/300px-LobbyEvent525519345.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/99/Lobby_Banner_EN_20220517_01.png/300px-Lobby_Banner_EN_20220517_01.png",
     "characters": [
      "Asuna (Bunny Girl)"
     ]
@@ -343,7 +338,7 @@
   "index": 15,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e1/LobbyEvent4156285840.png/300px-LobbyEvent4156285840.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/79/Lobby_Banner_EN_20220531_01.png/300px-Lobby_Banner_EN_20220531_01.png",
     "characters": [
      "Natsu",
      "Mari"
@@ -362,7 +357,7 @@
   "index": 16,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/4b/LobbyEvent1239859006.png/300px-LobbyEvent1239859006.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/01/Lobby_Banner_EN_20220614_01.png/300px-Lobby_Banner_EN_20220614_01.png",
     "characters": [
      "Hatsune Miku"
     ]
@@ -380,7 +375,7 @@
   "index": 17,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c2/LobbyEvent3682045954.png/300px-LobbyEvent3682045954.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/61/Lobby_Banner_EN_20220628_01.png/300px-Lobby_Banner_EN_20220628_01.png",
     "characters": [
      "Ako"
     ]
@@ -398,13 +393,13 @@
   "index": 18,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2d/LobbyEvent2533925235.png/300px-LobbyEvent2533925235.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c3/Lobby_Banner_EN_20220712_01.png/300px-Lobby_Banner_EN_20220712_01.png",
     "characters": [
      "Cherino (Hot Spring)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/df/LobbyEvent3977039394.png/300px-LobbyEvent3977039394.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/4b/Lobby_Banner_EN_20220712_02.png/300px-Lobby_Banner_EN_20220712_02.png",
     "characters": [
      "Chinatsu (Hot Spring)"
     ]
@@ -422,7 +417,7 @@
   "index": 19,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/68/LobbyEvent3461054987.png/300px-LobbyEvent3461054987.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/f9/Lobby_Banner_EN_20220726_01.png/300px-Lobby_Banner_EN_20220726_01.png",
     "characters": [
      "Nodoka (Hot Spring)"
     ]
@@ -440,13 +435,13 @@
   "index": 20,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a4/LobbyEvent2063273780.png/300px-LobbyEvent2063273780.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/34/Lobby_Banner_EN_20220809_01.png/300px-Lobby_Banner_EN_20220809_01.png",
     "characters": [
      "Aru (New Year)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e6/LobbyEvent3232946662.png/300px-LobbyEvent3232946662.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/07/Lobby_Banner_EN_20220809_02.png/300px-Lobby_Banner_EN_20220809_02.png",
     "characters": [
      "Mutsuki (New Year)"
     ]
@@ -464,7 +459,7 @@
   "index": 21,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/23/LobbyEvent2734332464.png/300px-LobbyEvent2734332464.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/5f/Lobby_Banner_EN_20220823_01.png/300px-Lobby_Banner_EN_20220823_01.png",
     "characters": [
      "Serika (New Year)"
     ]
@@ -475,14 +470,14 @@
   "is_prediction": false,
   "interval": {
    "start": "2022-08-23T03:00:00",
-   "end": "2022-09-06T03:00:00"
+   "end": "2022-09-06T02:00:00"
   }
  },
  {
   "index": 22,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/81/LobbyEvent2839745526.png/300px-LobbyEvent2839745526.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8f/Lobby_Banner_EN_20220906_01.png/300px-Lobby_Banner_EN_20220906_01.png",
     "characters": [
      "Wakamo"
     ]
@@ -492,23 +487,23 @@
   "is_fest": true,
   "is_prediction": false,
   "interval": {
-   "start": "2022-09-06T03:00:00",
-   "end": "2022-09-10T03:00:00"
+   "start": "2022-09-06T02:00:00",
+   "end": "2022-09-10T01:59:00"
   }
  },
  {
   "index": 23,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/52/LobbyEvent1239636782.png/300px-LobbyEvent1239636782.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/bb/Lobby_Banner_EN_20220910_01.png/300px-Lobby_Banner_EN_20220910_01.png",
     "characters": [
-     "Chihiro"
+     "Sena"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/68/LobbyEvent393953391.png/300px-LobbyEvent393953391.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/94/Lobby_Banner_EN_20220910_02.png/300px-Lobby_Banner_EN_20220910_02.png",
     "characters": [
-     "Sena"
+     "Chihiro"
     ]
    }
   ],
@@ -516,24 +511,24 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-09-10T03:00:00",
-   "end": "2022-09-20T03:00:00"
+   "start": "2022-09-10T02:00:00",
+   "end": "2022-09-20T01:59:00"
   }
  },
  {
   "index": 24,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/16/LobbyEvent1260293096.png/300px-LobbyEvent1260293096.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/31/Lobby_Banner_EN_20220920_01.png/300px-Lobby_Banner_EN_20220920_01.png",
     "characters": [
-     "Izuna",
-     "Shizuko"
+     "Mimori"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d6/LobbyEvent2343088023.png/300px-LobbyEvent2343088023.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/78/Lobby_Banner_EN_20220920_02.png/300px-Lobby_Banner_EN_20220920_02.png",
     "characters": [
-     "Mimori"
+     "Izuna",
+     "Shizuko"
     ]
    }
   ],
@@ -541,23 +536,23 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-09-20T03:00:00",
-   "end": "2022-09-27T03:00:00"
+   "start": "2022-09-20T02:00:00",
+   "end": "2022-09-27T01:59:00"
   }
  },
  {
   "index": 25,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/43/LobbyEvent996808592.png/300px-LobbyEvent996808592.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/51/Lobby_Banner_EN_20220927_01.png/300px-Lobby_Banner_EN_20220927_01.png",
     "characters": [
-     "Haruna"
+     "Koharu"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/ea/LobbyEvent1438696338.png/300px-LobbyEvent1438696338.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/10/Lobby_Banner_EN_20220927_02.png/300px-Lobby_Banner_EN_20220927_02.png",
     "characters": [
-     "Koharu"
+     "Haruna"
     ]
    }
   ],
@@ -565,21 +560,21 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-09-27T03:00:00",
-   "end": "2022-10-04T03:00:00"
+   "start": "2022-09-27T02:00:00",
+   "end": "2022-10-04T01:59:00"
   }
  },
  {
   "index": 26,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/6a/LobbyEvent3300681709.png/300px-LobbyEvent3300681709.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/ad/Lobby_Banner_EN_20221004_01.png/300px-Lobby_Banner_EN_20221004_01.png",
     "characters": [
      "Ui"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/dc/LobbyEvent384968997.png/300px-LobbyEvent384968997.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/1c/Lobby_Banner_EN_20221004_02.png/300px-Lobby_Banner_EN_20221004_02.png",
     "characters": [
      "Hinata"
     ]
@@ -589,21 +584,21 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-10-04T03:00:00",
-   "end": "2022-10-18T03:00:00"
+   "start": "2022-10-04T02:00:00",
+   "end": "2022-10-18T01:59:00"
   }
  },
  {
   "index": 27,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2f/LobbyEvent4094363931.png/300px-LobbyEvent4094363931.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/5e/Lobby_Banner_EN_20221018_01.png/300px-Lobby_Banner_EN_20221018_01.png",
     "characters": [
      "Marina"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/73/LobbyEvent365887591.png/300px-LobbyEvent365887591.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/30/Lobby_Banner_EN_20221018_02.png/300px-Lobby_Banner_EN_20221018_02.png",
     "characters": [
      "Cherino"
     ]
@@ -613,21 +608,21 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-10-18T03:00:00",
-   "end": "2022-10-25T03:00:00"
+   "start": "2022-10-18T02:00:00",
+   "end": "2022-10-25T01:59:00"
   }
  },
  {
   "index": 28,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/08/LobbyEvent3672893159.png/300px-LobbyEvent3672893159.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/36/Lobby_Banner_EN_20221025_01.png/300px-Lobby_Banner_EN_20221025_01.png",
     "characters": [
      "Iori"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/64/LobbyEvent2940779517.png/300px-LobbyEvent2940779517.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c4/Lobby_Banner_EN_20221025_02.png/300px-Lobby_Banner_EN_20221025_02.png",
     "characters": [
      "Midori",
      "Momoi"
@@ -638,33 +633,33 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-10-25T03:00:00",
-   "end": "2022-11-01T03:00:00"
+   "start": "2022-10-25T02:00:00",
+   "end": "2022-11-01T01:59:00"
   }
  },
  {
   "index": 29,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/70/LobbyEvent3284455879.png/300px-LobbyEvent3284455879.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/9d/Lobby_Banner_EN_20221108_01.png/300px-Lobby_Banner_EN_20221108_01.png",
     "characters": [
      "Miyako"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3e/LobbyEvent941256652.png/300px-LobbyEvent941256652.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/82/Lobby_Banner_EN_20221108_02.png/300px-Lobby_Banner_EN_20221108_02.png",
     "characters": [
      "Saki"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/7b/LobbyEvent3509075635.png/300px-LobbyEvent3509075635.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/21/Lobby_Banner_EN_20221108_03.png/300px-Lobby_Banner_EN_20221108_03.png",
     "characters": [
      "Miyu"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a3/LobbyEvent3736706120.png/300px-LobbyEvent3736706120.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c3/Lobby_Banner_EN_20221108_04.png/300px-Lobby_Banner_EN_20221108_04.png",
     "characters": [
      "Tsurugi"
     ]
@@ -674,8 +669,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-11-08T03:00:00",
-   "end": "2022-11-22T03:00:00"
+   "start": "2022-11-08T02:00:00",
+   "end": "2022-11-22T01:59:00"
   }
  },
  {
@@ -684,13 +679,13 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/60/Lobby_Banner_EN_20221122_01.png/300px-Lobby_Banner_EN_20221122_01.png",
     "characters": [
-     "Azusa (Swimsuit)"
+     "Mashiro (Swimsuit)"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/aa/Lobby_Banner_EN_20221122_02.png/300px-Lobby_Banner_EN_20221122_02.png",
     "characters": [
-     "Mashiro (Swimsuit)"
+     "Azusa (Swimsuit)"
     ]
    },
    {
@@ -704,21 +699,21 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2022-11-22T03:00:00",
-   "end": "2022-11-29T03:00:00"
+   "start": "2022-11-22T02:00:00",
+   "end": "2022-11-29T01:59:00"
   }
  },
  {
   "index": 31,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/0c/LobbyEvent2874916921.png/300px-LobbyEvent2874916921.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/17/Lobby_Banner_EN_20221129_01.png/300px-Lobby_Banner_EN_20221129_01.png",
     "characters": [
      "Kaede"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/bd/LobbyEvent32294672.png/300px-LobbyEvent32294672.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e2/Lobby_Banner_EN_20221129_02.png/300px-Lobby_Banner_EN_20221129_02.png",
     "characters": [
      "Iroha"
     ]
@@ -729,20 +724,20 @@
   "is_prediction": false,
   "interval": {
    "start": "2022-11-29T02:00:00",
-   "end": "2022-12-13T02:00:00"
+   "end": "2022-12-13T01:59:00"
   }
  },
  {
   "index": 32,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/f0/LobbyEvent3757254698.png/300px-LobbyEvent3757254698.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a9/Lobby_Banner_EN_20221213_01.png/300px-Lobby_Banner_EN_20221213_01.png",
     "characters": [
      "Tsukuyo"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/17/LobbyEvent1752984591.png/300px-LobbyEvent1752984591.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/bf/Lobby_Banner_EN_20221213_02.png/300px-Lobby_Banner_EN_20221213_02.png",
     "characters": [
      "Yuzu"
     ]
@@ -753,7 +748,7 @@
   "is_prediction": false,
   "interval": {
    "start": "2022-12-13T02:00:00",
-   "end": "2022-12-20T02:00:00"
+   "end": "2022-12-20T01:59:00"
   }
  },
  {
@@ -777,7 +772,7 @@
   "is_prediction": false,
   "interval": {
    "start": "2022-12-20T02:00:00",
-   "end": "2023-01-03T02:00:00"
+   "end": "2023-01-03T01:59:00"
   }
  },
  {
@@ -799,13 +794,13 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/0e/Lobby_Banner_EN_20230103_03.png/300px-Lobby_Banner_EN_20230103_03.png",
     "characters": [
-     "Hina"
+     "Hoshino"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/26/Lobby_Banner_EN_20230103_04.png/300px-Lobby_Banner_EN_20230103_04.png",
     "characters": [
-     "Hoshino"
+     "Hina"
     ]
    }
   ],
@@ -814,7 +809,7 @@
   "is_prediction": false,
   "interval": {
    "start": "2023-01-03T02:00:00",
-   "end": "2023-01-17T02:00:00"
+   "end": "2023-01-17T01:59:00"
   }
  },
  {
@@ -838,7 +833,7 @@
   "is_prediction": false,
   "interval": {
    "start": "2023-01-17T02:00:00",
-   "end": "2023-01-31T02:00:00"
+   "end": "2023-01-31T01:59:00"
   }
  },
  {
@@ -856,7 +851,7 @@
   "is_prediction": false,
   "interval": {
    "start": "2023-01-31T02:00:00",
-   "end": "2023-02-05T02:00:00"
+   "end": "2023-02-05T01:59:00"
   }
  },
  {
@@ -880,7 +875,7 @@
   "is_prediction": false,
   "interval": {
    "start": "2023-02-05T02:00:00",
-   "end": "2023-02-14T02:00:00"
+   "end": "2023-02-14T01:59:00"
   }
  },
  {
@@ -893,19 +888,19 @@
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3b/Lobby_Banner_EN_20230214_03.png/300px-Lobby_Banner_EN_20230214_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/49/Lobby_Banner_EN_20230214_02.png/300px-Lobby_Banner_EN_20230214_02.png",
     "characters": [
      "Aru"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a4/Lobby_Banner_EN_20230214_04.png/300px-Lobby_Banner_EN_20230214_04.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3b/Lobby_Banner_EN_20230214_03.png/300px-Lobby_Banner_EN_20230214_03.png",
     "characters": [
      "Shiroko (Riding)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/49/Lobby_Banner_EN_20230214_02.png/300px-Lobby_Banner_EN_20230214_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a4/Lobby_Banner_EN_20230214_04.png/300px-Lobby_Banner_EN_20230214_04.png",
     "characters": [
      "Arisu"
     ]
@@ -916,7 +911,7 @@
   "is_prediction": false,
   "interval": {
    "start": "2023-02-14T02:00:00",
-   "end": "2023-02-28T02:00:00"
+   "end": "2023-02-28T01:59:00"
   }
  },
  {
@@ -947,7 +942,7 @@
   "is_prediction": false,
   "interval": {
    "start": "2023-02-28T02:00:00",
-   "end": "2023-03-14T02:00:00"
+   "end": "2023-03-14T01:59:00"
   }
  },
  {
@@ -971,7 +966,7 @@
   "is_prediction": false,
   "interval": {
    "start": "2023-03-14T02:00:00",
-   "end": "2023-03-21T02:00:00"
+   "end": "2023-03-21T01:59:00"
   }
  },
  {
@@ -980,26 +975,26 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/7a/Lobby_Banner_EN_20230321_01.png/300px-Lobby_Banner_EN_20230321_01.png",
     "characters": [
-     "Shun (Kid)",
-     "Kirino"
+     "Kokona"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/dc/Lobby_Banner_EN_20230321_02.png/300px-Lobby_Banner_EN_20230321_02.png",
     "characters": [
-     "Saya (Casual)"
+     "Shun (Kid)",
+     "Kirino"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c0/Lobby_Banner_EN_20230321_03.png/300px-Lobby_Banner_EN_20230321_03.png",
     "characters": [
-     "Shun"
+     "Saya (Casual)"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/53/Lobby_Banner_EN_20230321_04.png/300px-Lobby_Banner_EN_20230321_04.png",
     "characters": [
-     "Kokona"
+     "Shun"
     ]
    }
   ],
@@ -1008,7 +1003,7 @@
   "is_prediction": false,
   "interval": {
    "start": "2023-03-21T02:00:00",
-   "end": "2023-03-28T02:00:00"
+   "end": "2023-03-28T01:59:00"
   }
  },
  {
@@ -1032,7 +1027,7 @@
   "is_prediction": false,
   "interval": {
    "start": "2023-03-28T02:00:00",
-   "end": "2023-04-11T02:00:00"
+   "end": "2023-04-11T01:59:00"
   }
  },
  {
@@ -1068,7 +1063,7 @@
   "is_prediction": false,
   "interval": {
    "start": "2023-04-11T02:00:00",
-   "end": "2023-04-18T02:00:00"
+   "end": "2023-04-18T01:59:00"
   }
  },
  {
@@ -1092,7 +1087,7 @@
   "is_prediction": false,
   "interval": {
    "start": "2023-04-18T02:00:00",
-   "end": "2023-04-25T02:00:00"
+   "end": "2023-04-25T01:59:00"
   }
  },
  {
@@ -1116,22 +1111,22 @@
   "is_prediction": false,
   "interval": {
    "start": "2023-04-25T02:00:00",
-   "end": "2023-05-09T02:00:00"
+   "end": "2023-05-09T01:59:00"
   }
  },
  {
   "index": 46,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/ea/LobbyEvent1438696338.png/300px-LobbyEvent1438696338.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/18/Lobby_Banner_EN_20230509_01.png/300px-Lobby_Banner_EN_20230509_01.png",
     "characters": [
-     "Koharu"
+     "Maki"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/13/Lobby_Banner_EN_20230509_02.png/300px-Lobby_Banner_EN_20230509_02.png",
     "characters": [
-     "Maki"
+     "Koharu"
     ]
    }
   ],
@@ -1139,8 +1134,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-05-09T03:00:00",
-   "end": "2023-05-16T03:00:00"
+   "start": "2023-05-09T02:00:00",
+   "end": "2023-05-16T01:59:00"
   }
  },
  {
@@ -1163,8 +1158,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-05-16T03:00:00",
-   "end": "2023-05-30T03:00:00"
+   "start": "2023-05-16T02:00:00",
+   "end": "2023-05-30T01:59:00"
   }
  },
  {
@@ -1173,25 +1168,25 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8d/Lobby_Banner_EN_20230530_01.png/300px-Lobby_Banner_EN_20230530_01.png",
     "characters": [
-     "Cherino (Hot Spring)"
+     "Shigure"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e4/Lobby_Banner_EN_20230530_02.png/300px-Lobby_Banner_EN_20230530_02.png",
     "characters": [
-     "Chinatsu (Hot Spring)"
+     "Cherino (Hot Spring)"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e2/Lobby_Banner_EN_20230530_03.png/300px-Lobby_Banner_EN_20230530_03.png",
     "characters": [
-     "Nodoka (Hot Spring)"
+     "Chinatsu (Hot Spring)"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a7/Lobby_Banner_EN_20230530_04.png/300px-Lobby_Banner_EN_20230530_04.png",
     "characters": [
-     "Shigure"
+     "Nodoka (Hot Spring)"
     ]
    }
   ],
@@ -1199,30 +1194,30 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-05-30T03:00:00",
-   "end": "2023-06-06T03:00:00"
+   "start": "2023-05-30T02:00:00",
+   "end": "2023-06-06T01:59:00"
   }
  },
  {
   "index": 49,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/64/LobbyEvent2940779517.png/300px-LobbyEvent2940779517.png",
-    "characters": [
-     "Midori",
-     "Momoi"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/49/Lobby_Banner_EN_20230214_02.png/300px-Lobby_Banner_EN_20230214_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a4/Lobby_Banner_EN_20230214_04.png/300px-Lobby_Banner_EN_20230214_04.png",
     "characters": [
      "Arisu"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/17/LobbyEvent1752984591.png/300px-LobbyEvent1752984591.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/bf/Lobby_Banner_EN_20221213_02.png/300px-Lobby_Banner_EN_20221213_02.png",
     "characters": [
      "Yuzu"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c4/Lobby_Banner_EN_20221025_02.png/300px-Lobby_Banner_EN_20221025_02.png",
+    "characters": [
+     "Midori",
+     "Momoi"
     ]
    }
   ],
@@ -1230,8 +1225,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-06-06T03:00:00",
-   "end": "2023-06-13T03:00:00"
+   "start": "2023-06-06T02:00:00",
+   "end": "2023-06-13T01:59:00"
   }
  },
  {
@@ -1254,8 +1249,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-06-13T03:00:00",
-   "end": "2023-06-27T03:00:00"
+   "start": "2023-06-13T02:00:00",
+   "end": "2023-06-27T01:59:00"
   }
  },
  {
@@ -1278,8 +1273,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-06-27T03:00:00",
-   "end": "2023-07-11T03:00:00"
+   "start": "2023-06-27T02:00:00",
+   "end": "2023-07-11T01:59:00"
   }
  },
  {
@@ -1288,7 +1283,7 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/7e/Lobby_Banner_EN_20230711_01.png/300px-Lobby_Banner_EN_20230711_01.png",
     "characters": [
-     "Chihiro"
+     "Mine"
     ]
    },
    {
@@ -1300,7 +1295,7 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/50/Lobby_Banner_EN_20230711_03.png/300px-Lobby_Banner_EN_20230711_03.png",
     "characters": [
-     "Mine"
+     "Chihiro"
     ]
    }
   ],
@@ -1308,8 +1303,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-07-11T03:00:00",
-   "end": "2023-07-25T03:00:00"
+   "start": "2023-07-11T02:00:00",
+   "end": "2023-07-25T01:59:00"
   }
  },
  {
@@ -1326,8 +1321,8 @@
   "is_fest": true,
   "is_prediction": false,
   "interval": {
-   "start": "2023-07-25T03:00:00",
-   "end": "2023-08-01T03:00:00"
+   "start": "2023-07-25T02:00:00",
+   "end": "2023-08-01T01:59:00"
   }
  },
  {
@@ -1350,8 +1345,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-08-01T03:00:00",
-   "end": "2023-08-11T03:00:00"
+   "start": "2023-08-01T02:00:00",
+   "end": "2023-08-11T01:59:00"
   }
  },
  {
@@ -1380,8 +1375,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-08-11T03:00:00",
-   "end": "2023-08-22T03:00:00"
+   "start": "2023-08-11T02:00:00",
+   "end": "2023-08-22T01:59:00"
   }
  },
  {
@@ -1404,8 +1399,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-08-22T03:00:00",
-   "end": "2023-09-05T03:00:00"
+   "start": "2023-08-22T02:00:00",
+   "end": "2023-09-05T01:59:00"
   }
  },
  {
@@ -1428,15 +1423,15 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-09-05T03:00:00",
-   "end": "2023-09-19T03:00:00"
+   "start": "2023-09-05T02:00:00",
+   "end": "2023-09-19T01:59:00"
   }
  },
  {
   "index": 58,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a4/Lobby_Banner_EN_20230214_04.png/300px-Lobby_Banner_EN_20230214_04.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3b/Lobby_Banner_EN_20230214_03.png/300px-Lobby_Banner_EN_20230214_03.png",
     "characters": [
      "Shiroko (Riding)"
     ]
@@ -1453,8 +1448,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-09-19T03:00:00",
-   "end": "2023-09-26T03:00:00"
+   "start": "2023-09-19T02:00:00",
+   "end": "2023-09-26T01:59:00"
   }
  },
  {
@@ -1495,8 +1490,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-09-26T03:00:00",
-   "end": "2023-10-10T03:00:00"
+   "start": "2023-09-26T02:00:00",
+   "end": "2023-10-10T01:59:00"
   }
  },
  {
@@ -1520,8 +1515,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-10-10T03:00:00",
-   "end": "2023-10-17T03:00:00"
+   "start": "2023-10-10T02:00:00",
+   "end": "2023-10-17T01:59:00"
   }
  },
  {
@@ -1530,13 +1525,13 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3e/Lobby_Banner_EN_20231017_01.png/300px-Lobby_Banner_EN_20231017_01.png",
     "characters": [
-     "Marina"
+     "Cherino"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/87/Lobby_Banner_EN_20231017_02.png/300px-Lobby_Banner_EN_20231017_02.png",
     "characters": [
-     "Cherino"
+     "Marina"
     ]
    }
   ],
@@ -1544,8 +1539,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-10-17T03:00:00",
-   "end": "2023-10-24T03:00:00"
+   "start": "2023-10-17T02:00:00",
+   "end": "2023-10-24T01:59:00"
   }
  },
  {
@@ -1560,13 +1555,13 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/b2/Lobby_Banner_EN_20231024_02.png/300px-Lobby_Banner_EN_20231024_02.png",
     "characters": [
-     "Kaede"
+     "Iroha"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/9a/Lobby_Banner_EN_20231024_03.png/300px-Lobby_Banner_EN_20231024_03.png",
     "characters": [
-     "Iroha"
+     "Kaede"
     ]
    },
    {
@@ -1580,8 +1575,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-10-24T03:00:00",
-   "end": "2023-10-31T03:00:00"
+   "start": "2023-10-24T02:00:00",
+   "end": "2023-10-31T01:59:00"
   }
  },
  {
@@ -1604,15 +1599,21 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-10-31T03:00:00",
-   "end": "2023-11-14T03:00:00"
+   "start": "2023-10-31T02:00:00",
+   "end": "2023-11-14T01:59:00"
   }
  },
  {
   "index": 64,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/7b/Lobby_Banner_EN_20231121_01.png/300px-Lobby_Banner_EN_20231121_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/eb/Lobby_Banner_EN_20231114_01.png/300px-Lobby_Banner_EN_20231114_01.png",
+    "characters": [
+     "Reisa"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/9b/Lobby_Banner_EN_20231114_02.png/300px-Lobby_Banner_EN_20231114_02.png",
     "characters": [
      "Kazusa"
     ]
@@ -1623,33 +1624,27 @@
      "Natsu",
      "Mari"
     ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c3/Lobby_Banner_EN_20231121_03.png/300px-Lobby_Banner_EN_20231121_03.png",
-    "characters": [
-     "Reisa"
-    ]
    }
   ],
   "is_limited": false,
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-11-14T03:00:00",
-   "end": "2023-11-21T03:00:00"
+   "start": "2023-11-14T02:00:00",
+   "end": "2023-11-21T01:59:00"
   }
  },
  {
   "index": 65,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/60/Lobby_Banner_EN_20221122_01.png/300px-Lobby_Banner_EN_20221122_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/aa/Lobby_Banner_EN_20221122_02.png/300px-Lobby_Banner_EN_20221122_02.png",
     "characters": [
      "Azusa (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/aa/Lobby_Banner_EN_20221122_02.png/300px-Lobby_Banner_EN_20221122_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/60/Lobby_Banner_EN_20221122_01.png/300px-Lobby_Banner_EN_20221122_01.png",
     "characters": [
      "Mashiro (Swimsuit)"
     ]
@@ -1665,8 +1660,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-11-21T03:00:00",
-   "end": "2023-11-28T03:00:00"
+   "start": "2023-11-21T02:00:00",
+   "end": "2023-11-28T01:59:00"
   }
  },
  {
@@ -1689,8 +1684,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-11-28T03:00:00",
-   "end": "2023-12-12T03:00:00"
+   "start": "2023-11-28T02:00:00",
+   "end": "2023-12-12T01:59:00"
   }
  },
  {
@@ -1699,19 +1694,19 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c6/Lobby_Banner_EN_20231212_01.png/300px-Lobby_Banner_EN_20231212_01.png",
     "characters": [
-     "Miyako"
+     "Minori"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/43/Lobby_Banner_EN_20231212_02.png/300px-Lobby_Banner_EN_20231212_02.png",
     "characters": [
-     "Saki"
+     "Miyako"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/10/Lobby_Banner_EN_20231212_03.png/300px-Lobby_Banner_EN_20231212_03.png",
     "characters": [
-     "Minori"
+     "Saki"
     ]
    }
   ],
@@ -1719,8 +1714,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-12-12T03:00:00",
-   "end": "2023-12-19T03:00:00"
+   "start": "2023-12-12T02:00:00",
+   "end": "2023-12-19T01:59:00"
   }
  },
  {
@@ -1743,8 +1738,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-12-19T03:00:00",
-   "end": "2023-12-26T03:00:00"
+   "start": "2023-12-19T02:00:00",
+   "end": "2023-12-26T01:59:00"
   }
  },
  {
@@ -1767,8 +1762,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2023-12-26T03:00:00",
-   "end": "2024-01-09T03:00:00"
+   "start": "2023-12-26T02:00:00",
+   "end": "2024-01-09T01:59:00"
   }
  },
  {
@@ -1791,28 +1786,28 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-01-09T03:00:00",
-   "end": "2024-01-16T03:00:00"
+   "start": "2024-01-09T02:00:00",
+   "end": "2024-01-16T01:59:00"
   }
  },
  {
   "index": 71,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/7a/Lobby_Banner_EN_20230321_01.png/300px-Lobby_Banner_EN_20230321_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/dc/Lobby_Banner_EN_20230321_02.png/300px-Lobby_Banner_EN_20230321_02.png",
     "characters": [
      "Shun (Kid)",
      "Kirino"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/dc/Lobby_Banner_EN_20230321_02.png/300px-Lobby_Banner_EN_20230321_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c0/Lobby_Banner_EN_20230321_03.png/300px-Lobby_Banner_EN_20230321_03.png",
     "characters": [
      "Saya (Casual)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3c/Lobby_Banner_EN_20240116_03.png/300px-Lobby_Banner_EN_20240116_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8e/Lobby_Banner_EN_20240116_01.png/300px-Lobby_Banner_EN_20240116_01.png",
     "characters": [
      "Kokona"
     ]
@@ -1822,8 +1817,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-01-16T03:00:00",
-   "end": "2024-01-23T03:00:00"
+   "start": "2024-01-16T02:00:00",
+   "end": "2024-01-23T01:59:00"
   }
  },
  {
@@ -1832,7 +1827,7 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/82/Lobby_Banner_EN_20240123_01.png/300px-Lobby_Banner_EN_20240123_01.png",
     "characters": [
-     "Wakamo (Swimsuit)"
+     "Shiroko (Swimsuit)"
     ]
    },
    {
@@ -1844,7 +1839,7 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/f6/Lobby_Banner_EN_20240123_03.png/300px-Lobby_Banner_EN_20240123_03.png",
     "characters": [
-     "Shiroko (Swimsuit)"
+     "Wakamo (Swimsuit)"
     ]
    }
   ],
@@ -1852,8 +1847,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-01-23T03:00:00",
-   "end": "2024-01-30T03:00:00"
+   "start": "2024-01-23T02:00:00",
+   "end": "2024-01-30T01:59:00"
   }
  },
  {
@@ -1876,8 +1871,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-01-30T03:00:00",
-   "end": "2024-02-08T03:00:00"
+   "start": "2024-01-30T02:00:00",
+   "end": "2024-02-08T01:59:00"
   }
  },
  {
@@ -1900,8 +1895,8 @@
   "is_fest": true,
   "is_prediction": false,
   "interval": {
-   "start": "2024-02-08T03:00:00",
-   "end": "2024-02-15T03:00:00"
+   "start": "2024-02-08T02:00:00",
+   "end": "2024-02-15T01:59:00"
   }
  },
  {
@@ -1924,8 +1919,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-02-15T03:00:00",
-   "end": "2024-02-20T03:00:00"
+   "start": "2024-02-15T02:00:00",
+   "end": "2024-02-20T01:59:00"
   }
  },
  {
@@ -1934,19 +1929,19 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e1/Lobby_Banner_EN_20240220_01.png/300px-Lobby_Banner_EN_20240220_01.png",
     "characters": [
-     "Izuna (Swimsuit)"
+     "Mimori (Swimsuit)"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2d/Lobby_Banner_EN_20240220_02.png/300px-Lobby_Banner_EN_20240220_02.png",
     "characters": [
-     "Chise (Swimsuit)"
+     "Izuna (Swimsuit)"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/03/Lobby_Banner_EN_20240220_03.png/300px-Lobby_Banner_EN_20240220_03.png",
     "characters": [
-     "Mimori (Swimsuit)"
+     "Chise (Swimsuit)"
     ]
    }
   ],
@@ -1954,30 +1949,30 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-02-20T03:00:00",
-   "end": "2024-02-27T03:00:00"
+   "start": "2024-02-20T02:00:00",
+   "end": "2024-02-27T01:59:00"
   }
  },
  {
   "index": 77,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3e/Lobby_Banner_EN_20231017_01.png/300px-Lobby_Banner_EN_20231017_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e3/Lobby_Banner_EN_20240227_01.png/300px-Lobby_Banner_EN_20240227_01.png",
     "characters": [
-     "Marina"
+     "Meru",
+     "Momiji"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/73/LobbyEvent365887591.png/300px-LobbyEvent365887591.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3e/Lobby_Banner_EN_20231017_01.png/300px-Lobby_Banner_EN_20231017_01.png",
     "characters": [
      "Cherino"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/b8/Lobby_Banner_EN_20240227_03.png/300px-Lobby_Banner_EN_20240227_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/87/Lobby_Banner_EN_20231017_02.png/300px-Lobby_Banner_EN_20231017_02.png",
     "characters": [
-     "Meru",
-     "Momiji"
+     "Marina"
     ]
    }
   ],
@@ -1985,8 +1980,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-02-27T03:00:00",
-   "end": "2024-03-12T03:00:00"
+   "start": "2024-02-27T02:00:00",
+   "end": "2024-03-12T01:59:00"
   }
  },
  {
@@ -1995,7 +1990,7 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/78/Lobby_Banner_EN_20240312_01.png/300px-Lobby_Banner_EN_20240312_01.png",
     "characters": [
-     "Utaha (Cheerleader)"
+     "Kotori (Cheerleader)"
     ]
    },
    {
@@ -2007,7 +2002,7 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/97/Lobby_Banner_EN_20240312_03.png/300px-Lobby_Banner_EN_20240312_03.png",
     "characters": [
-     "Kotori (Cheerleader)"
+     "Utaha (Cheerleader)"
     ]
    }
   ],
@@ -2015,8 +2010,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-03-12T03:00:00",
-   "end": "2024-03-21T03:00:00"
+   "start": "2024-03-12T02:00:00",
+   "end": "2024-03-21T01:59:00"
   }
  },
  {
@@ -2045,8 +2040,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-03-21T03:00:00",
-   "end": "2024-04-02T03:00:00"
+   "start": "2024-03-21T02:00:00",
+   "end": "2024-04-02T01:59:00"
   }
  },
  {
@@ -2071,7 +2066,7 @@
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a3/Lobby_Banner_EN_20240402_04.png/300px-Lobby_Banner_EN_20240402_04.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3d/Lobby_Banner_EN_20240402_03.png/300px-Lobby_Banner_EN_20240402_03.png",
     "characters": [
      "Iori"
     ]
@@ -2081,35 +2076,35 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-04-02T03:00:00",
-   "end": "2024-04-16T03:00:00"
+   "start": "2024-04-02T02:00:00",
+   "end": "2024-04-16T01:59:00"
   }
  },
  {
   "index": 81,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8d/Lobby_Banner_EN_20230530_01.png/300px-Lobby_Banner_EN_20230530_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/b9/Lobby_Banner_EN_20240416_01.png/300px-Lobby_Banner_EN_20240416_01.png",
     "characters": [
-     "Cherino (Hot Spring)"
+     "Shigure (Hot Spring)"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e4/Lobby_Banner_EN_20230530_02.png/300px-Lobby_Banner_EN_20230530_02.png",
     "characters": [
-     "Chinatsu (Hot Spring)"
+     "Cherino (Hot Spring)"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e2/Lobby_Banner_EN_20230530_03.png/300px-Lobby_Banner_EN_20230530_03.png",
     "characters": [
-     "Nodoka (Hot Spring)"
+     "Chinatsu (Hot Spring)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/40/Lobby_Banner_EN_20240416_04.png/300px-Lobby_Banner_EN_20240416_04.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a7/Lobby_Banner_EN_20230530_04.png/300px-Lobby_Banner_EN_20230530_04.png",
     "characters": [
-     "Shigure (Hot Spring)"
+     "Nodoka (Hot Spring)"
     ]
    }
   ],
@@ -2117,8 +2112,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-04-16T03:00:00",
-   "end": "2024-04-23T03:00:00"
+   "start": "2024-04-16T02:00:00",
+   "end": "2024-04-23T01:59:00"
   }
  },
  {
@@ -2153,8 +2148,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-04-23T03:00:00",
-   "end": "2024-04-30T03:00:00"
+   "start": "2024-04-23T02:00:00",
+   "end": "2024-04-30T01:59:00"
   }
  },
  {
@@ -2177,8 +2172,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-04-30T03:00:00",
-   "end": "2024-05-14T03:00:00"
+   "start": "2024-04-30T02:00:00",
+   "end": "2024-05-14T01:59:00"
   }
  },
  {
@@ -2195,8 +2190,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-05-14T03:00:00",
-   "end": "2024-05-21T03:00:00"
+   "start": "2024-05-14T02:00:00",
+   "end": "2024-05-21T01:59:00"
   }
  },
  {
@@ -2221,7 +2216,7 @@
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3c/Lobby_Banner_EN_20240116_03.png/300px-Lobby_Banner_EN_20240116_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8e/Lobby_Banner_EN_20240116_01.png/300px-Lobby_Banner_EN_20240116_01.png",
     "characters": [
      "Kokona"
     ]
@@ -2231,8 +2226,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-05-21T03:00:00",
-   "end": "2024-05-28T03:00:00"
+   "start": "2024-05-21T02:00:00",
+   "end": "2024-05-28T01:59:00"
   }
  },
  {
@@ -2255,8 +2250,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-05-28T03:00:00",
-   "end": "2024-06-11T03:00:00"
+   "start": "2024-05-28T02:00:00",
+   "end": "2024-06-11T01:59:00"
   }
  },
  {
@@ -2265,13 +2260,13 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a6/Lobby_Banner_EN_20240611_01.png/300px-Lobby_Banner_EN_20240611_01.png",
     "characters": [
-     "Himari"
+     "Eimi (Swimsuit)"
     ]
    },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/28/Lobby_Banner_EN_20240611_02.png/300px-Lobby_Banner_EN_20240611_02.png",
     "characters": [
-     "Eimi (Swimsuit)"
+     "Himari"
     ]
    }
   ],
@@ -2279,19 +2274,13 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-06-11T03:00:00",
-   "end": "2024-06-18T03:00:00"
+   "start": "2024-06-11T02:00:00",
+   "end": "2024-06-18T01:59:00"
   }
  },
  {
   "index": 88,
   "banners": [
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/88/Lobby_Banner_EN_20230411_01.png/300px-Lobby_Banner_EN_20230411_01.png",
-    "characters": [
-     "Akane (Bunny Girl)"
-    ]
-   },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/f2/Lobby_Banner_EN_20230411_02.png/300px-Lobby_Banner_EN_20230411_02.png",
     "characters": [
@@ -2309,14 +2298,20 @@
     "characters": [
      "Asuna (Bunny Girl)"
     ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d5/Lobby_Banner_EN_20240618_01.png/300px-Lobby_Banner_EN_20240618_01.png",
+    "characters": [
+     "Akane (Bunny Girl)"
+    ]
    }
   ],
   "is_limited": true,
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-06-18T03:00:00",
-   "end": "2024-06-25T03:00:00"
+   "start": "2024-06-18T02:00:00",
+   "end": "2024-06-25T01:59:00"
   }
  },
  {
@@ -2339,25 +2334,13 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-06-25T03:00:00",
-   "end": "2024-07-09T03:00:00"
+   "start": "2024-06-25T02:00:00",
+   "end": "2024-07-09T01:59:00"
   }
  },
  {
   "index": 90,
   "banners": [
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/ec/Lobby_Banner_EN_20240709_01.png/300px-Lobby_Banner_EN_20240709_01.png",
-    "characters": [
-     "Kayoko (New Year)"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c8/Lobby_Banner_EN_20240709_02.png/300px-Lobby_Banner_EN_20240709_02.png",
-    "characters": [
-     "Haruka (New Year)"
-    ]
-   },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/b1/Lobby_Banner_EN_20230926_03.png/300px-Lobby_Banner_EN_20230926_03.png",
     "characters": [
@@ -2375,14 +2358,26 @@
     "characters": [
      "Serika (New Year)"
     ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/ec/Lobby_Banner_EN_20240709_01.png/300px-Lobby_Banner_EN_20240709_01.png",
+    "characters": [
+     "Haruka (New Year)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c8/Lobby_Banner_EN_20240709_02.png/300px-Lobby_Banner_EN_20240709_02.png",
+    "characters": [
+     "Kayoko (New Year)"
+    ]
    }
   ],
   "is_limited": true,
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-07-09T03:00:00",
-   "end": "2024-07-16T03:00:00"
+   "start": "2024-07-09T02:00:00",
+   "end": "2024-07-16T01:59:00"
   }
  },
  {
@@ -2405,8 +2400,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-07-16T03:00:00",
-   "end": "2024-07-23T03:00:00"
+   "start": "2024-07-16T02:00:00",
+   "end": "2024-07-23T01:59:00"
   }
  },
  {
@@ -2425,7 +2420,7 @@
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/9a/Lobby_Banner_EN_20231024_03.png/300px-Lobby_Banner_EN_20231024_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/b2/Lobby_Banner_EN_20231024_02.png/300px-Lobby_Banner_EN_20231024_02.png",
     "characters": [
      "Iroha"
     ]
@@ -2435,8 +2430,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-07-23T03:00:00",
-   "end": "2024-07-30T03:00:00"
+   "start": "2024-07-23T02:00:00",
+   "end": "2024-07-30T01:59:00"
   }
  },
  {
@@ -2459,8 +2454,8 @@
   "is_fest": true,
   "is_prediction": false,
   "interval": {
-   "start": "2024-07-30T03:00:00",
-   "end": "2024-08-06T03:00:00"
+   "start": "2024-07-30T02:00:00",
+   "end": "2024-08-06T01:59:00"
   }
  },
  {
@@ -2483,15 +2478,15 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-08-06T03:00:00",
-   "end": "2024-08-13T03:00:00"
+   "start": "2024-08-06T02:00:00",
+   "end": "2024-08-13T01:59:00"
   }
  },
  {
   "index": 95,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/7e/Lobby_Banner_EN_20230711_01.png/300px-Lobby_Banner_EN_20230711_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/50/Lobby_Banner_EN_20230711_03.png/300px-Lobby_Banner_EN_20230711_03.png",
     "characters": [
      "Chihiro"
     ]
@@ -2503,7 +2498,7 @@
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/0f/Lobby_Banner_EN_20240813_03.png/300px-Lobby_Banner_EN_20240813_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/18/Lobby_Banner_EN_20240813_01.png/300px-Lobby_Banner_EN_20240813_01.png",
     "characters": [
      "Mine"
     ]
@@ -2513,8 +2508,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-08-13T03:00:00",
-   "end": "2024-08-20T03:00:00"
+   "start": "2024-08-13T02:00:00",
+   "end": "2024-08-20T01:59:00"
   }
  },
  {
@@ -2537,8 +2532,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-08-20T03:00:00",
-   "end": "2024-09-03T03:00:00"
+   "start": "2024-08-20T02:00:00",
+   "end": "2024-09-03T01:59:00"
   }
  },
  {
@@ -2567,19 +2562,13 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-09-03T03:00:00",
-   "end": "2024-09-17T03:00:00"
+   "start": "2024-09-03T02:00:00",
+   "end": "2024-09-17T01:59:00"
   }
  },
  {
   "index": 98,
   "banners": [
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3c/Lobby_Banner_EN_20240917_03.png/300px-Lobby_Banner_EN_20240917_03.png",
-    "characters": [
-     "Sakurako"
-    ]
-   },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/ef/Lobby_Banner_EN_20230811_02.png/300px-Lobby_Banner_EN_20230811_02.png",
     "characters": [
@@ -2591,24 +2580,35 @@
     "characters": [
      "Hinata"
     ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/b9/Lobby_Banner_EN_20240917_01.png/300px-Lobby_Banner_EN_20240917_01.png",
+    "characters": [
+     "Sakurako"
+    ]
    }
   ],
   "is_limited": false,
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-09-17T03:00:00",
-   "end": "2024-09-24T03:00:00"
+   "start": "2024-09-17T02:00:00",
+   "end": "2024-09-24T01:59:00"
   }
  },
  {
   "index": 99,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/85/Lobby_Banner_EN_20231010_01.png/300px-Lobby_Banner_EN_20231010_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/bd/Lobby_Banner_EN_20240924_01.png/300px-Lobby_Banner_EN_20240924_01.png",
     "characters": [
-     "Izuna",
-     "Shizuko"
+     "Tsubaki (Guide)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/9b/Lobby_Banner_EN_20240924_02.png/300px-Lobby_Banner_EN_20240924_02.png",
+    "characters": [
+     "Umika"
     ]
    },
    {
@@ -2618,15 +2618,10 @@
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a6/Lobby_Banner_EN_20240924_03.png/300px-Lobby_Banner_EN_20240924_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/85/Lobby_Banner_EN_20231010_01.png/300px-Lobby_Banner_EN_20231010_01.png",
     "characters": [
-     "Tsubaki (Guide)"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c6/Lobby_Banner_EN_20240924_04.png/300px-Lobby_Banner_EN_20240924_04.png",
-    "characters": [
-     "Umika"
+     "Izuna",
+     "Shizuko"
     ]
    }
   ],
@@ -2634,17 +2629,23 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-09-24T03:00:00",
-   "end": "2024-10-08T03:00:00"
+   "start": "2024-09-24T02:00:00",
+   "end": "2024-10-08T01:59:00"
   }
  },
  {
   "index": 100,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/7b/Lobby_Banner_EN_20231121_01.png/300px-Lobby_Banner_EN_20231121_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/9b/Lobby_Banner_EN_20231114_02.png/300px-Lobby_Banner_EN_20231114_02.png",
     "characters": [
      "Kazusa"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e1/Lobby_Banner_EN_20241008_01.png/300px-Lobby_Banner_EN_20241008_01.png",
+    "characters": [
+     "Reisa"
     ]
    },
    {
@@ -2653,39 +2654,33 @@
      "Natsu",
      "Mari"
     ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c3/Lobby_Banner_EN_20231121_03.png/300px-Lobby_Banner_EN_20231121_03.png",
-    "characters": [
-     "Reisa"
-    ]
    }
   ],
   "is_limited": false,
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-10-08T03:00:00",
-   "end": "2024-10-15T03:00:00"
+   "start": "2024-10-08T02:00:00",
+   "end": "2024-10-15T01:59:00"
   }
  },
  {
   "index": 101,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d7/Lobby_Banner_EN_20230822_01.png/300px-Lobby_Banner_EN_20230822_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/fa/Lobby_Banner_EN_20241015_01.png/300px-Lobby_Banner_EN_20241015_01.png",
     "characters": [
      "Toki"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/55/Lobby_Banner_EN_20230822_02.png/300px-Lobby_Banner_EN_20230822_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/f3/Lobby_Banner_EN_20241015_02.png/300px-Lobby_Banner_EN_20241015_02.png",
     "characters": [
      "Nagisa"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e4/Lobby_Banner_EN_20230905_01.png/300px-Lobby_Banner_EN_20230905_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/75/Lobby_Banner_EN_20241015_03.png/300px-Lobby_Banner_EN_20241015_03.png",
     "characters": [
      "Koyuki"
     ]
@@ -2695,21 +2690,21 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-10-15T03:00:00",
-   "end": "2024-10-22T03:00:00"
+   "start": "2024-10-15T02:00:00",
+   "end": "2024-10-22T01:59:00"
   }
  },
  {
   "index": 102,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c8/Lobby_Banner_20240424_01.png/300px-Lobby_Banner_20240424_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/68/Lobby_Banner_EN_20241022_01.png/300px-Lobby_Banner_EN_20241022_01.png",
     "characters": [
      "Kazusa (Band)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/35/Lobby_Banner_20240424_02.png/300px-Lobby_Banner_20240424_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/1a/Lobby_Banner_EN_20241022_02.png/300px-Lobby_Banner_EN_20241022_02.png",
     "characters": [
      "Yoshimi (Band)"
     ]
@@ -2725,7 +2720,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-10-22T03:00:00",
+   "start": "2024-10-22T02:00:00",
    "end": "2024-11-05T01:59:00"
   }
  },
@@ -2733,19 +2728,13 @@
   "index": 103,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c4/Lobby_Banner_20240508_01.png/300px-Lobby_Banner_20240508_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d9/Lobby_Banner_EN_20241105_01.png/300px-Lobby_Banner_EN_20241105_01.png",
     "characters": [
      "Kirara"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/ed/Lobby_Banner_EN_20231024_01.png/300px-Lobby_Banner_EN_20231024_01.png",
-    "characters": [
-     "Kaho"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/b2/Lobby_Banner_EN_20231024_02.png/300px-Lobby_Banner_EN_20231024_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/9a/Lobby_Banner_EN_20231024_03.png/300px-Lobby_Banner_EN_20231024_03.png",
     "characters": [
      "Kaede"
     ]
@@ -2755,13 +2744,19 @@
     "characters": [
      "Tsukuyo"
     ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/ca/Lobby_Banner_EN_20241105_02.png/300px-Lobby_Banner_EN_20241105_02.png",
+    "characters": [
+     "Kaho"
+    ]
    }
   ],
   "is_limited": false,
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-11-05T01:59:00",
+   "start": "2024-11-05T02:00:00",
    "end": "2024-11-12T01:59:00"
   }
  },
@@ -2769,13 +2764,13 @@
   "index": 104,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/eb/Lobby_Banner_EN_20231128_01.png/300px-Lobby_Banner_EN_20231128_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/89/Lobby_Banner_EN_20241112_01.png/300px-Lobby_Banner_EN_20241112_01.png",
     "characters": [
      "Rumi"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e8/Lobby_Banner_EN_20231128_02.png/300px-Lobby_Banner_EN_20231128_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/97/Lobby_Banner_EN_20241112_02.png/300px-Lobby_Banner_EN_20241112_02.png",
     "characters": [
      "Mina"
     ]
@@ -2787,7 +2782,7 @@
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3c/Lobby_Banner_EN_20240116_03.png/300px-Lobby_Banner_EN_20240116_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8e/Lobby_Banner_EN_20240116_01.png/300px-Lobby_Banner_EN_20240116_01.png",
     "characters": [
      "Kokona"
     ]
@@ -2797,7 +2792,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-11-12T01:59:00",
+   "start": "2024-11-12T02:00:00",
    "end": "2024-11-19T01:59:00"
   }
  },
@@ -2805,27 +2800,27 @@
   "index": 105,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/bb/Lobby_Banner_EN_20231031_01.png/300px-Lobby_Banner_EN_20231031_01.png",
-    "characters": [
-     "Arisu (Maid)"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d8/Lobby_Banner_EN_20231031_02.png/300px-Lobby_Banner_EN_20231031_02.png",
-    "characters": [
-     "Toki (Bunny Girl)"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/87/Lobby_Banner_20240522_01.png/300px-Lobby_Banner_20240522_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/6d/Lobby_Banner_EN_20241119_01.png/300px-Lobby_Banner_EN_20241119_01.png",
     "characters": [
      "Momoi (Maid)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8b/Lobby_Banner_20240522_02.png/300px-Lobby_Banner_20240522_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/fa/Lobby_Banner_EN_20241119_02.png/300px-Lobby_Banner_EN_20241119_02.png",
     "characters": [
      "Midori (Maid)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2a/Lobby_Banner_EN_20241119_03.png/300px-Lobby_Banner_EN_20241119_03.png",
+    "characters": [
+     "Arisu (Maid)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/01/Lobby_Banner_EN_20241119_04.png/300px-Lobby_Banner_EN_20241119_04.png",
+    "characters": [
+     "Toki (Bunny Girl)"
     ]
    }
   ],
@@ -2833,7 +2828,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-11-19T01:59:00",
+   "start": "2024-11-19T02:00:00",
    "end": "2024-12-03T01:59:00"
   }
  },
@@ -2841,9 +2836,9 @@
   "index": 106,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/82/Lobby_Banner_EN_20240123_01.png/300px-Lobby_Banner_EN_20240123_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/b5/Lobby_Banner_EN_20241203_01.png/300px-Lobby_Banner_EN_20241203_01.png",
     "characters": [
-     "Wakamo (Swimsuit)"
+     "Serika (Swimsuit)"
     ]
    },
    {
@@ -2855,13 +2850,13 @@
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/f6/Lobby_Banner_EN_20240123_03.png/300px-Lobby_Banner_EN_20240123_03.png",
     "characters": [
-     "Shiroko (Swimsuit)"
+     "Wakamo (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/fa/Lobby_Banner_20240605_01.png/300px-Lobby_Banner_20240605_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/5e/Lobby_Banner_EN_20241203_04.png/300px-Lobby_Banner_EN_20241203_04.png",
     "characters": [
-     "Serika (Swimsuit)"
+     "Shiroko (Swimsuit)"
     ]
    }
   ],
@@ -2869,7 +2864,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-12-03T01:59:00",
+   "start": "2024-12-03T02:00:00",
    "end": "2024-12-14T01:59:00"
   }
  },
@@ -2877,19 +2872,19 @@
   "index": 107,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e1/Lobby_Banner_EN_20240220_01.png/300px-Lobby_Banner_EN_20240220_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2d/Lobby_Banner_EN_20240220_02.png/300px-Lobby_Banner_EN_20240220_02.png",
     "characters": [
      "Izuna (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2d/Lobby_Banner_EN_20240220_02.png/300px-Lobby_Banner_EN_20240220_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/03/Lobby_Banner_EN_20240220_03.png/300px-Lobby_Banner_EN_20240220_03.png",
     "characters": [
      "Chise (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/03/Lobby_Banner_EN_20240220_03.png/300px-Lobby_Banner_EN_20240220_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/ba/Lobby_Banner_EN_20241214_01.png/300px-Lobby_Banner_EN_20241214_01.png",
     "characters": [
      "Mimori (Swimsuit)"
     ]
@@ -2899,7 +2894,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-12-14T01:59:00",
+   "start": "2024-12-14T02:00:00",
    "end": "2024-12-24T01:59:00"
   }
  },
@@ -2907,13 +2902,13 @@
   "index": 108,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/1f/Lobby_Banner_20240626_01.png/300px-Lobby_Banner_20240626_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/71/Lobby_Banner_EN_20241224_01.png/300px-Lobby_Banner_EN_20241224_01.png",
     "characters": [
      "Kanna (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/82/Lobby_Banner_20240626_02.png/300px-Lobby_Banner_20240626_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/f3/Lobby_Banner_EN_20241224_02.png/300px-Lobby_Banner_EN_20241224_02.png",
     "characters": [
      "Fubuki (Swimsuit)"
     ]
@@ -2923,7 +2918,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2024-12-24T01:59:00",
+   "start": "2024-12-24T02:00:00",
    "end": "2025-01-07T01:59:00"
   }
  },
@@ -2931,21 +2926,21 @@
   "index": 109,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c8/Lobby_Banner_EN_20231226_01.png/300px-Lobby_Banner_EN_20231226_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/cd/Lobby_Banner_EN_20250107_01.png/300px-Lobby_Banner_EN_20250107_01.png",
+    "characters": [
+     "Moe (Swimsuit)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c4/Lobby_Banner_EN_20250107_02.png/300px-Lobby_Banner_EN_20250107_02.png",
     "characters": [
      "Miyako (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/f3/Lobby_Banner_EN_20231226_02.png/300px-Lobby_Banner_EN_20231226_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/15/Lobby_Banner_EN_20250107_03.png/300px-Lobby_Banner_EN_20250107_03.png",
     "characters": [
      "Saki (Swimsuit)"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/67/Lobby_Banner_20240710_01.png/300px-Lobby_Banner_20240710_01.png",
-    "characters": [
-     "Moe (Swimsuit)"
     ]
    }
   ],
@@ -2953,7 +2948,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-01-07T01:59:00",
+   "start": "2025-01-07T02:00:00",
    "end": "2025-01-16T01:59:00"
   }
  },
@@ -2961,13 +2956,13 @@
   "index": 110,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/0e/Lobby_Banner_EN_20230103_03.png/300px-Lobby_Banner_EN_20230103_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/17/Lobby_Banner_EN_20250116_01.png/300px-Lobby_Banner_EN_20250116_01.png",
     "characters": [
      "Hina"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/26/Lobby_Banner_EN_20230103_04.png/300px-Lobby_Banner_EN_20230103_04.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/30/Lobby_Banner_EN_20250116_02.png/300px-Lobby_Banner_EN_20250116_02.png",
     "characters": [
      "Hoshino"
     ]
@@ -2977,7 +2972,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-01-16T01:59:00",
+   "start": "2025-01-16T02:00:00",
    "end": "2025-01-23T01:59:00"
   }
  },
@@ -2985,21 +2980,21 @@
   "index": 111,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c7/Lobby_Banner_EN_20230725_01.png/300px-Lobby_Banner_EN_20230725_01.png",
-    "characters": [
-     "Mika"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/be/Lobby_Banner_20240722_01.png/300px-Lobby_Banner_20240722_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/16/Lobby_Banner_EN_20250123_01.png/300px-Lobby_Banner_EN_20250123_01.png",
     "characters": [
      "Hoshino (Battle)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/1d/Lobby_Banner_20240722_02.png/300px-Lobby_Banner_20240722_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/ff/Lobby_Banner_EN_20250123_02.png/300px-Lobby_Banner_EN_20250123_02.png",
     "characters": [
      "Shiroko＊Terror"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/75/Lobby_Banner_EN_20250123_03.png/300px-Lobby_Banner_EN_20250123_03.png",
+    "characters": [
+     "Mika"
     ]
    }
   ],
@@ -3007,7 +3002,7 @@
   "is_fest": true,
   "is_prediction": false,
   "interval": {
-   "start": "2025-01-23T01:59:00",
+   "start": "2025-01-23T02:00:00",
    "end": "2025-01-30T01:59:00"
   }
  },
@@ -3015,13 +3010,13 @@
   "index": 112,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/25/Lobby_Banner_20240729_01.png/300px-Lobby_Banner_20240729_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8a/Lobby_Banner_EN_20250130_01.png/300px-Lobby_Banner_EN_20250130_01.png",
     "characters": [
      "Saori (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2b/Lobby_Banner_20240729_02.png/300px-Lobby_Banner_20240729_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/ca/Lobby_Banner_EN_20250130_02.png/300px-Lobby_Banner_EN_20250130_02.png",
     "characters": [
      "Hiyori (Swimsuit)"
     ]
@@ -3031,7 +3026,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-01-30T01:59:00",
+   "start": "2025-01-30T02:00:00",
    "end": "2025-02-08T01:59:00"
   }
  },
@@ -3039,34 +3034,34 @@
   "index": 113,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3e/Lobby_Banner_EN_20231017_01.png/300px-Lobby_Banner_EN_20231017_01.png",
-    "characters": [
-     "Marina"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/73/LobbyEvent365887591.png/300px-LobbyEvent365887591.png",
-    "characters": [
-     "Cherino"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/b8/Lobby_Banner_EN_20240227_03.png/300px-Lobby_Banner_EN_20240227_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/90/Lobby_Banner_EN_20250208_01.png/300px-Lobby_Banner_EN_20250208_01.png",
     "characters": [
      "Meru",
      "Momiji"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/40/Lobby_Banner_EN_20240416_04.png/300px-Lobby_Banner_EN_20240416_04.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3e/Lobby_Banner_EN_20231017_01.png/300px-Lobby_Banner_EN_20231017_01.png",
     "characters": [
-     "Shigure (Hot Spring)"
+     "Cherino"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/10/Lobby_Banner_EN_20231212_03.png/300px-Lobby_Banner_EN_20231212_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/87/Lobby_Banner_EN_20231017_02.png/300px-Lobby_Banner_EN_20231017_02.png",
+    "characters": [
+     "Marina"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a9/Lobby_Banner_EN_20250208_02.png/300px-Lobby_Banner_EN_20250208_02.png",
     "characters": [
      "Minori"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/6f/Lobby_Banner_EN_20250208_03.png/300px-Lobby_Banner_EN_20250208_03.png",
+    "characters": [
+     "Shigure (Hot Spring)"
     ]
    }
   ],
@@ -3074,7 +3069,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-02-08T01:59:00",
+   "start": "2025-02-08T02:00:00",
    "end": "2025-02-18T01:59:00"
   }
  },
@@ -3082,13 +3077,13 @@
   "index": 114,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/4a/Lobby_Banner_20240821_01.png/300px-Lobby_Banner_20240821_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/29/Lobby_Banner_EN_20250218_01.png/300px-Lobby_Banner_EN_20250218_01.png",
     "characters": [
      "Marina (Qipao)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/16/Lobby_Banner_20240821_02.png/300px-Lobby_Banner_20240821_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d8/Lobby_Banner_EN_20250218_02.png/300px-Lobby_Banner_EN_20250218_02.png",
     "characters": [
      "Tomoe (Qipao)"
     ]
@@ -3098,7 +3093,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-02-18T01:59:00",
+   "start": "2025-02-18T02:00:00",
    "end": "2025-03-04T01:59:00"
   }
  },
@@ -3106,7 +3101,19 @@
   "index": 115,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/9a/Lobby_Banner_EN_20231024_03.png/300px-Lobby_Banner_EN_20231024_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/bf/Lobby_Banner_EN_20250304_01.png/300px-Lobby_Banner_EN_20250304_01.png",
+    "characters": [
+     "Ui (Swimsuit)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/bb/Lobby_Banner_EN_20250304_02.png/300px-Lobby_Banner_EN_20250304_02.png",
+    "characters": [
+     "Hinata (Swimsuit)"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/b2/Lobby_Banner_EN_20231024_02.png/300px-Lobby_Banner_EN_20231024_02.png",
     "characters": [
      "Iroha"
     ]
@@ -3116,37 +3123,19 @@
     "characters": [
      "Miyu"
     ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/b0/Lobby_Banner_EN_20240130_01.png/300px-Lobby_Banner_EN_20240130_01.png",
-    "characters": [
-     "Ui (Swimsuit)"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/51/Lobby_Banner_EN_20240130_02.png/300px-Lobby_Banner_EN_20240130_02.png",
-    "characters": [
-     "Hinata (Swimsuit)"
-    ]
    }
   ],
   "is_limited": true,
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-03-04T01:59:00",
+   "start": "2025-03-04T02:00:00",
    "end": "2025-03-11T01:59:00"
   }
  },
  {
   "index": 116,
   "banners": [
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/88/Lobby_Banner_EN_20230411_01.png/300px-Lobby_Banner_EN_20230411_01.png",
-    "characters": [
-     "Akane (Bunny Girl)"
-    ]
-   },
    {
     "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/f2/Lobby_Banner_EN_20230411_02.png/300px-Lobby_Banner_EN_20230411_02.png",
     "characters": [
@@ -3164,13 +3153,19 @@
     "characters": [
      "Asuna (Bunny Girl)"
     ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d5/Lobby_Banner_EN_20240618_01.png/300px-Lobby_Banner_EN_20240618_01.png",
+    "characters": [
+     "Akane (Bunny Girl)"
+    ]
    }
   ],
   "is_limited": true,
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-03-11T01:59:00",
+   "start": "2025-03-11T02:00:00",
    "end": "2025-03-18T01:59:00"
   }
  },
@@ -3178,28 +3173,28 @@
   "index": 117,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/7a/Lobby_Banner_EN_20230321_01.png/300px-Lobby_Banner_EN_20230321_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/30/Lobby_Banner_EN_20250318_01.png/300px-Lobby_Banner_EN_20250318_01.png",
+    "characters": [
+     "Kisaki"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/ef/Lobby_Banner_EN_20250318_02.png/300px-Lobby_Banner_EN_20250318_02.png",
+    "characters": [
+     "Reijo"
+    ]
+   },
+   {
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/dc/Lobby_Banner_EN_20230321_02.png/300px-Lobby_Banner_EN_20230321_02.png",
     "characters": [
      "Shun (Kid)",
      "Kirino"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/dc/Lobby_Banner_EN_20230321_02.png/300px-Lobby_Banner_EN_20230321_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c0/Lobby_Banner_EN_20230321_03.png/300px-Lobby_Banner_EN_20230321_03.png",
     "characters": [
      "Saya (Casual)"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/89/Lobby_Banner_20240925_01.png/300px-Lobby_Banner_20240925_01.png",
-    "characters": [
-     "Kisaki"
-    ]
-   },
-   {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/bd/Lobby_Banner_20240925_02.png/300px-Lobby_Banner_20240925_02.png",
-    "characters": [
-     "Reijo"
     ]
    }
   ],
@@ -3207,7 +3202,7 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-03-18T01:59:00",
+   "start": "2025-03-18T02:00:00",
    "end": "2025-04-01T01:59:00"
   }
  },
@@ -3215,13 +3210,13 @@
   "index": 118,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/60/Lobby_Banner_EN_20221122_01.png/300px-Lobby_Banner_EN_20221122_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/aa/Lobby_Banner_EN_20221122_02.png/300px-Lobby_Banner_EN_20221122_02.png",
     "characters": [
      "Azusa (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/aa/Lobby_Banner_EN_20221122_02.png/300px-Lobby_Banner_EN_20221122_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/60/Lobby_Banner_EN_20221122_01.png/300px-Lobby_Banner_EN_20221122_01.png",
     "characters": [
      "Mashiro (Swimsuit)"
     ]
@@ -3237,27 +3232,27 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-04-01T00:59:00",
-   "end": "2025-04-08T00:59:00"
+   "start": "2025-04-01T02:00:00",
+   "end": "2025-04-08T01:59:00"
   }
  },
  {
   "index": 119,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8a/Lobby_Banner_EN_20240514_01.png/300px-Lobby_Banner_EN_20240514_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/f/f8/Lobby_Banner_EN_20250408_01.png/300px-Lobby_Banner_EN_20250408_01.png",
     "characters": [
      "Yukari"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/03/Lobby_Banner_EN_20240528_01.png/300px-Lobby_Banner_EN_20240528_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/86/Lobby_Banner_EN_20250408_02.png/300px-Lobby_Banner_EN_20250408_02.png",
     "characters": [
      "Renge"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/22/Lobby_Banner_EN_20240528_02.png/300px-Lobby_Banner_EN_20240528_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/13/Lobby_Banner_EN_20250408_03.png/300px-Lobby_Banner_EN_20250408_03.png",
     "characters": [
      "Kikyou"
     ]
@@ -3267,21 +3262,21 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-04-08T00:59:00",
-   "end": "2025-04-15T00:59:00"
+   "start": "2025-04-08T02:00:00",
+   "end": "2025-04-15T01:59:00"
   }
  },
  {
   "index": 120,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c1/Lobby_Banner_EN_20241023_01.png/300px-Lobby_Banner_EN_20241023_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/be/Lobby_Banner_EN_20250415_01.png/300px-Lobby_Banner_EN_20250415_01.png",
     "characters": [
      "Mari (Idol)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c6/Lobby_Banner_EN_20241023_02.png/300px-Lobby_Banner_EN_20241023_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/68/Lobby_Banner_EN_20250415_02.png/300px-Lobby_Banner_EN_20250415_02.png",
     "characters": [
      "Sakurako (Idol)"
     ]
@@ -3291,8 +3286,8 @@
   "is_fest": false,
   "is_prediction": false,
   "interval": {
-   "start": "2025-04-15T00:59:00",
-   "end": "2025-04-29T00:59:00"
+   "start": "2025-04-15T02:00:00",
+   "end": "2025-04-29T01:59:00"
   }
  },
  {
@@ -3305,7 +3300,7 @@
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/df/Lobby_Banner_EN_20250429_02.png/300px-Lobby_Banner_EN_20250429_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/ad/Lobby_Banner_EN_20240521_01.png/300px-Lobby_Banner_EN_20240521_01.png",
     "characters": [
      "Saori"
     ]
@@ -3323,19 +3318,19 @@
   "index": 122,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/08/Lobby_Banner_EN_20250506_01.png/300px-Lobby_Banner_EN_20250506_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/12/Lobby_Banner_EN_20230314_01.png/300px-Lobby_Banner_EN_20230314_01.png",
     "characters": [
      "Hina (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/6e/Lobby_Banner_EN_20250506_02.png/300px-Lobby_Banner_EN_20250506_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/79/Lobby_Banner_EN_20230314_02.png/300px-Lobby_Banner_EN_20230314_02.png",
     "characters": [
      "Iori (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/07/Lobby_Banner_EN_20250506_03.png/300px-Lobby_Banner_EN_20250506_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3b/Lobby_Banner_EN_20230214_03.png/300px-Lobby_Banner_EN_20230214_03.png",
     "characters": [
      "Shiroko (Riding)"
     ]
@@ -3401,7 +3396,7 @@
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a3/Lobby_Banner_EN_20240402_04.png/300px-Lobby_Banner_EN_20240402_04.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3d/Lobby_Banner_EN_20240402_03.png/300px-Lobby_Banner_EN_20240402_03.png",
     "characters": [
      "Iori"
     ]
@@ -3425,13 +3420,13 @@
   "index": 125,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/7/78/Lobby_Banner_EN_20240312_01.png/300px-Lobby_Banner_EN_20240312_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/97/Lobby_Banner_EN_20240312_03.png/300px-Lobby_Banner_EN_20240312_03.png",
     "characters": [
      "Utaha (Cheerleader)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/bd/Lobby_Banner_EN_202500603_02.png/300px-Lobby_Banner_EN_202500603_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3a/Lobby_Banner_EN_20250603_01.png/300px-Lobby_Banner_EN_20250603_01.png",
     "characters": [
      "Kotori (Cheerleader)"
     ]
@@ -3443,19 +3438,19 @@
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d2/Lobby_Banner_EN_202500603_04.png/300px-Lobby_Banner_EN_202500603_04.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/4/44/Lobby_Banner_EN_20240321_02.png/300px-Lobby_Banner_EN_20240321_02.png",
     "characters": [
      "Yuuka (Sportswear)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/03/Lobby_Banner_EN_202500603_05.png/300px-Lobby_Banner_EN_202500603_05.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d4/Lobby_Banner_EN_20240321_03.png/300px-Lobby_Banner_EN_20240321_03.png",
     "characters": [
      "Mari (Sportswear)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a2/Lobby_Banner_EN_202500603_06.png/300px-Lobby_Banner_EN_202500603_06.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/51/Lobby_Banner_EN_20250603_02.png/300px-Lobby_Banner_EN_20250603_02.png",
     "characters": [
      "Haruna (Sportswear)"
     ]
@@ -3509,13 +3504,13 @@
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/ec/Lobby_Banner_EN_20240709_01.png/300px-Lobby_Banner_EN_20240709_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c8/Lobby_Banner_EN_20240709_02.png/300px-Lobby_Banner_EN_20240709_02.png",
     "characters": [
      "Kayoko (New Year)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c8/Lobby_Banner_EN_20240709_02.png/300px-Lobby_Banner_EN_20240709_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/ec/Lobby_Banner_EN_20240709_01.png/300px-Lobby_Banner_EN_20240709_01.png",
     "characters": [
      "Haruka (New Year)"
     ]
@@ -3533,25 +3528,25 @@
   "index": 128,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/b/bb/Lobby_Banner_EN_20231031_01.png/300px-Lobby_Banner_EN_20231031_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2a/Lobby_Banner_EN_20241119_03.png/300px-Lobby_Banner_EN_20241119_03.png",
     "characters": [
      "Arisu (Maid)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d8/Lobby_Banner_EN_20231031_02.png/300px-Lobby_Banner_EN_20231031_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/01/Lobby_Banner_EN_20241119_04.png/300px-Lobby_Banner_EN_20241119_04.png",
     "characters": [
      "Toki (Bunny Girl)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/87/Lobby_Banner_20240522_01.png/300px-Lobby_Banner_20240522_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/59/Lobby_Banner_EN_20250701_01.png/300px-Lobby_Banner_EN_20250701_01.png",
     "characters": [
      "Momoi (Maid)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8b/Lobby_Banner_20240522_02.png/300px-Lobby_Banner_20240522_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d3/Lobby_Banner_EN_20250701_02.png/300px-Lobby_Banner_EN_20250701_02.png",
     "characters": [
      "Midori (Maid)"
     ]
@@ -3629,25 +3624,25 @@
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/a6/Lobby_Banner_EN_20240611_01.png/300px-Lobby_Banner_EN_20240611_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/28/Lobby_Banner_EN_20240611_02.png/300px-Lobby_Banner_EN_20240611_02.png",
     "characters": [
      "Himari"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d2/Lobby_Banner_EN_20250722_03.png/300px-Lobby_Banner_EN_20250722_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/5a/Lobby_Banner_EN_20250722_02.png/300px-Lobby_Banner_EN_20250722_02.png",
     "characters": [
      "Eimi (Swimsuit)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e0/Lobby_Banner_EN_20250722_04.png/300px-Lobby_Banner_EN_20250722_04.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/d2/Lobby_Banner_EN_20250722_03.png/300px-Lobby_Banner_EN_20250722_03.png",
     "characters": [
      "Hare (Camping)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/1/12/Lobby_Banner_EN_20250722_05.png/300px-Lobby_Banner_EN_20250722_05.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e0/Lobby_Banner_EN_20250722_04.png/300px-Lobby_Banner_EN_20250722_04.png",
     "characters": [
      "Kotama (Camping)"
     ]
@@ -3737,13 +3732,13 @@
   "index": 134,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/0/01/Lobby_Banner_EN_20240826_01.png/300px-Lobby_Banner_EN_20240826_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e5/Lobby_Banner_EN_20250826_01.png/300px-Lobby_Banner_EN_20250826_01.png",
     "characters": [
      "Sumire (Part-Timer)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/6/6a/Lobby_Banner_EN_20240826_02.png/300px-Lobby_Banner_EN_20240826_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c7/Lobby_Banner_EN_20250826_02.png/300px-Lobby_Banner_EN_20250826_02.png",
     "characters": [
      "Rei"
     ]
@@ -3761,19 +3756,19 @@
   "index": 135,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/2/2a/Lobby_Banner_EN_20240909_01.png/300px-Lobby_Banner_EN_20240909_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/ec/Lobby_Banner_EN_20250909_01.png/300px-Lobby_Banner_EN_20250909_01.png",
     "characters": [
      "Saori (Dress)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/e/e9/Lobby_Banner_EN_20240909_02.png/300px-Lobby_Banner_EN_20240909_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/92/Lobby_Banner_EN_20250909_02.png/300px-Lobby_Banner_EN_20250909_02.png",
     "characters": [
      "Aru (Dress)"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/5/5c/Lobby_Banner_EN_20240909_03.png/300px-Lobby_Banner_EN_20240909_03.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/8a/Lobby_Banner_EN_20250909_03.png/300px-Lobby_Banner_EN_20250909_03.png",
     "characters": [
      "Kayoko (Dress)"
     ]
@@ -3791,13 +3786,13 @@
   "index": 136,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/3/3a/Lobby_Banner_EN_20240916_01.png/300px-Lobby_Banner_EN_20240916_01.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/8/89/Lobby_Banner_EN_20241112_01.png/300px-Lobby_Banner_EN_20241112_01.png",
     "characters": [
      "Rumi"
     ]
    },
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/c/c0/Lobby_Banner_EN_20240916_02.png/300px-Lobby_Banner_EN_20240916_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/9/97/Lobby_Banner_EN_20241112_02.png/300px-Lobby_Banner_EN_20241112_02.png",
     "characters": [
      "Mina"
     ]
@@ -3839,7 +3834,7 @@
   "index": 138,
   "banners": [
    {
-    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/d/df/Lobby_Banner_EN_20250429_02.png/300px-Lobby_Banner_EN_20250429_02.png",
+    "image_url": "//static.wikitide.net/bluearchivewiki/thumb/a/ad/Lobby_Banner_EN_20240521_01.png/300px-Lobby_Banner_EN_20240521_01.png",
     "characters": [
      "Saori"
     ]
